@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-03-16T19:36:09+03:00">
+	<shop>
+		<name>Зона Эндуро</name>
+		<company>ЗОНА ЭНДУРО</company>
+		<url>https://endurozone.ru</url>
+		<platform>Tilda Publishing</platform>
+		<version>1.0</version>
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="13">Мототранспорт</category>
+			<category id="141" parentId="13">Мотоциклы</category>
+		</categories>
+		<sets>
+			<set id="s1">
+				<name>Каталог мотоциклов Sharmax</name>
+				<url>https://endurozone.ru/catalog?tfc_sort%5B1770014951%5D=price:asc&amp;tfc_storepartuid%5B1770014951%5D=Эндуро+и+кроссовые+мотоциклы/@/Sharmax&amp;tfc_div=:::</url>
+			</set>
+		</sets>
+		<offers>
+		<offer id="968358129792">
+			<name>Питбайк Sharmax Sport 145</name>
+			<vendor>Sharmax</vendor>
+			<description>
+<![CDATA[
+Sharmax Sport 145<br /><br />Охлаждение - Воздушное<br />Защита рук - Нет<br />Материал рамы - Хромомолибденовый сплав<br />Аккумулятор 12V/7Аh<br />Высота, см 117<br />Длина, см 180<br />Трансмиссия - Механическая<br />Вес, кг 75<br /><br />Тормоза передние - Двухпоршневой, дисковый гидравлический<br />Колесная база 1210<br />Ход передней подвески 300 мм<br />Ход задней подвески 280 мм<br />Подвеска передняя - Телескопическая (перевернутого типа)<br />Подвеска задняя - Маятниковая с моноамортизатором<br />Клиренс 290<br />Двигатель<br />Система запуска - Электростартер+кик-стартер<br />Объём двигателя, куб 125<br />Мощность (л.с.) 10<br />Объём двигателя (по диапазонам) до 125<br />Мощность (по диапазонам) 9 - 15<br />Мощность (л.с.)10<br />Карбюратор PZ-22<br />Регулировка передней подвески - Нет<br />Ширина 75 см<br />Высота по седлу 880мм<br />Размер колес 17/1417/14<br />Система подачи топлива - Карбюратор<br />Количество тактов 4<br />Двигатель 1P54FMJ<br />Количество цилиндров 1<br /><br /><br />Обратите внимание: Производитель и импортер оставляют за собой право изменять конструкцию, технические характеристики, функции, внешний вид и комплектацию товара без предварительного уведомления.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3939-6137-4233-b133-383565616566/b45a81cb646cdaeea725358a4b58f782.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3536-3962-4238-a164-643339383762/236c51927a9f02333cc73944b2ec3022.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6232-3063-4434-b832-323230653739/f4964897b3d1b0665d046c2a5b3fee0a.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3263-6133-4862-a430-326339633636/561681a57215b7536dcc5ec3e2f5b0a9.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3562-6538-4865-b131-313036656337/84f6171f330010c68bbfe97cf252d548.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3833-3434-4239-b263-653831313366/6597577302f24529d5a9fa6a9fd27a1b.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3564-3464-4030-a536-373963323265/bef70286d5403ea65d4fe62cf0cfafa3.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6533-3330-4462-b236-626239626539/c3ad51c95312c7ed20356a412eccc4a1.jpg</picture>
+			<url>https://endurozone.ru/catalog/tproduct/968358129792-pitbaik-sharmax-sport-145</url>
+			<count>9999</count>
+			<price>109900.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>141</categoryId>
+			<set-ids>s1</set-ids>
+			<adult>false</adult>
+			<downloadable>false</downloadable>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>false</pickup>
+			<store>false</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Двигатель, тип">Атмосферный</param>
+			<param name="Коробка передач">Механика</param>
+			<param name="Двигатель, литры">0.1</param>
+			<param name="Двигатель, л.с.">10</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+		<offer id="835108755962">
+			<name>Питбайк Sharmax Sport 190</name>
+			<vendor>Sharmax</vendor>
+			<description>
+<![CDATA[
+Sharmax Sport 190<br /><br />Охлаждение - Воздушное<br />Материал рамы -Хромомолибденовый сплав<br />Аккумулятор 12V/7Аh<br />Высота 107 см<br />Длина 199 см<br />Трансмиссия - Механическая<br />Вес, кг 109<br /><br />Колеса передние 70/100-19<br />Тормоза передние - Двухпоршневой, дисковый гидравлический<br />Колесная база - 1440<br />Ход передней подвески 300 мм<br />Ход задней подвески 280мм<br />Клиренс 300<br />Система запуска - Электростартер+кик-стартер<br />Объём двигателя, 140 куб<br />Мощность (л.с.) 17<br />Объём двигателя (по диапазонам)191 - 299<br />Мощность (по диапазонам) 16 - 20<br />Карбюратор PZ-27<br />Регулировка задней подвески - Преднатяг пружины и высоты по седлу<br />Регулировка передней подвески - Нет<br />Ширина 82 см<br />Высота по седлу 820мм<br />Размер колес 19/16<br />Система подачи топлива - Карбюратор<br />Количество тактов - 4<br />Количество цилиндров -1<br /><br /><br />Обратите внимание: Производитель и импортер оставляют за собой право изменять конструкцию, технические характеристики, функции, внешний вид и комплектацию товара без предварительного уведомления.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3363-3638-4965-a239-633432656532/d300b0959ffcc30820f4635e73679054.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6665-6363-4563-b866-393936313734/fbe7951160c03f8427fb94849f3f1aa2.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3265-6439-4363-b361-656634386332/b5133c4bdf53b26c46b7669802e398eb.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6361-3466-4638-a261-633965633336/5abdb7149fed2d3b0774dc01a13e71a6.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3136-6362-4764-a535-623236306332/420d3e96109c58350b17f3ac7b512b10.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3734-3331-4966-b539-386361376161/2c13b764aeb3a6559c82f4342f861121.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3461-3331-4563-b937-333566666165/1a634e85d7c77859fd8bd0514bd9f6ad.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3062-3232-4866-a165-316632323366/bb8266b802b2ae5417820b0f7c8cf786.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3136-3932-4832-b731-653532333237/3a4f4038221795b9182086319614a23c.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3066-3665-4039-a335-386636323238/e31ebce61c4801b1d5236f7c2959a2c1.jpg</picture>
+			<url>https://endurozone.ru/catalog/tproduct/835108755962-pitbaik-sharmax-sport-190</url>
+			<count>9999</count>
+			<price>119900.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>141</categoryId>
+			<set-ids>s1</set-ids>
+			<adult>false</adult>
+			<downloadable>false</downloadable>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>false</pickup>
+			<store>false</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Двигатель, тип">Атмосферный</param>
+			<param name="Коробка передач">Механика</param>
+			<param name="Двигатель, литры">0.1</param>
+			<param name="Двигатель, л.с.">17</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+		<offer id="277548562042">
+			<name>Питбайк Sharmax Sport 190 Miami</name>
+			<vendor>Sharmax</vendor>
+			<description>
+<![CDATA[
+Питбайк Sharmax Sport 190 Miami<br /><br />Двигатель и топливная система<br /><ul><li data-list="bullet">Модель двигателя: 1P56FMJ-2 (YX 140)</li><li data-list="bullet">Объем двигателя: 140 куб. см</li><li data-list="bullet">Максимальная мощность: 12 л. с.</li><li data-list="bullet">Система охлаждения: Воздушная</li><li data-list="bullet">Топливная система: Карбюратор PZ 27</li><li data-list="bullet">Зажигание: CDI</li></ul>Трансмиссия и ходовая часть<br /><ul><li data-list="bullet">Коробка передач: Механическая, 4-ступенчатая</li><li data-list="bullet">Рама: Усиленная дуплексная, хромомолибденовый сплав</li><li data-list="bullet">Маятник: Стальной, хромомолибденовый сплав</li><li data-list="bullet">Колесная база: 1220 мм</li><li data-list="bullet">Размер колес: 17/14 дюймов</li></ul>Подвеска<br /><ul><li data-list="bullet">Передняя подвеска: Вилка перевернутого типа (длина 730 мм, стакан 45-47 мм, шток 33 мм)</li><li data-list="bullet">Задняя подвеска: Моноамортизатор с регулировкой преднатяга пружины (шток 12 мм)</li></ul>Управление и дизайн<br /><ul><li data-list="bullet">Руль: Алюминиевый, толстостенный, регулируемый</li><li data-list="bullet">Комплектация: Мягкие противоскользящие грипсы, защита рук</li><li data-list="bullet">Особенности: Графика серии Miami, плавные обтекатели</li></ul><br /><br />Обратите внимание: Производитель и импортер оставляют за собой право изменять конструкцию, технические характеристики, функции, внешний вид и комплектацию товара без предварительного уведомления.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3035-3937-4636-b636-643633616435/5f5ec1e91a5a5b5027022713eb1de5db.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6533-3666-4431-a139-333237373034/6f9b27e7ede10a5118984923441e85f3.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3436-6235-4634-a138-383130303036/a3e29f7e79f090c2ff9e219db216eb7f.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3438-3833-4839-b462-393066336439/503d79397d554643f6930c9aff67f2f0.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3231-6238-4365-b835-666663343266/80483006da09407265f63ff23aa2eacd.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6337-3133-4464-b139-393037373265/b259f660ed5f2f21f7749ba5601951b2.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3131-3830-4637-a661-616431383136/52a499451c74d243a6965deb51aaf2ee.jpg</picture>
+			<url>https://endurozone.ru/catalog/tproduct/277548562042-pitbaik-sharmax-sport-190-miami</url>
+			<count>9999</count>
+			<price>119900.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>141</categoryId>
+			<set-ids>s1</set-ids>
+			<adult>false</adult>
+			<downloadable>false</downloadable>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>false</pickup>
+			<store>false</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Двигатель, тип">Атмосферный</param>
+			<param name="Коробка передач">Механика</param>
+			<param name="Двигатель, литры">0.1</param>
+			<param name="Двигатель, л.с.">12</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+		<offer id="838090925362">
+			<name>Sharmax Sport 230</name>
+			<vendor>Sharmax</vendor>
+			<description>
+<![CDATA[
+Sharmax Sport 230 <br /><br />Объём двигателя 200 куб.<br />Система запуска - Электростартер+кик-стартер<br />Объём двигателя (по диапазонам) 191 - 299<br />Мощность (по диапазонам) 9 - 15<br />Мощность (л.с.) 14<br />Вес 110 кг<br />Трансмиссия - Механическая<br />Длина 220 см<br />Высота 123 см<br />Аккумулятор 12V/7Аh<br />Конструкция рамы -Дуплексная, симметричная<br />Материал рамы - Хромомолибденовый сплав<br />Фара - Есть<br />Спидометр - Есть<br />Ёмкость топливного бака, 6 л<br />Зеркала заднего вида - Есть<br />Фара задняя - Есть<br />Охлаждение -Воздушное<br />Клиренс 280<br />Подвеска задняя - WP Xplor<br />Подвеска передняя KYB-Tech Advantage<br />Колесная база 1490<br />Колеса передние 80/100-2180/100-21<br />Колеса задние 90/100-18<br />Количество цилиндров 1<br />Двигатель 164FML<br />Количество тактов 4<br />Зажигание CDI<br />Система подачи топлива - Карбюратор<br />Размер колес 21/18<br />Цепь X-Ring 520<br />Высота по седлу 930 мм<br />Поворотники - Есть<br />Ширина 82 см<br />Регулировка передней подвески - регулировка сжатия<br />Регулировка задней подвески - С усовершенствованной системой прогрессивного демпфирования<br />Регулировка амортизаторов - Отсутствует<br />Карбюратор - PZ-30<br /><br /><br />Обратите внимание: Производитель и импортер оставляют за собой право изменять конструкцию, технические характеристики, функции, внешний вид и комплектацию товара без предварительного уведомления.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6230-6638-4236-a135-323066343464/2d119a47ebecf9b74af2e31510e4309e.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3561-3835-4730-a338-643037316337/026097cdb84f7c5de0774a55961e5cab.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3031-6164-4531-b862-646461346666/0fa4cfd96e76e205176dafc8b479b400.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3263-3637-4030-a362-323633366261/218daa4889a7fa6e2a85203deaf12458.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3336-3863-4061-b764-663532336437/02809601f4416060f481bda37f5d0137.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3361-6235-4437-a533-616237343733/96284e4f29b33b0c84ddfed63fb1d79b.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3036-3864-4136-a561-363638346464/6c8cb240e3ec10d8c5d6690cb8d7a429.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3131-3166-4466-a534-316463303563/44f3533a4c897166353b4db6cd0a89b0.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3262-6163-4439-b032-343064326635/77d07d69bd613f9d18294570915e68cb.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6366-6235-4434-a333-336137376363/c0526ac2ecc5b4132cb5193e0dee600b.jpg</picture>
+			<url>https://endurozone.ru/catalog/tproduct/838090925362-sharmax-sport-230</url>
+			<count>9999</count>
+			<price>165900.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>141</categoryId>
+			<set-ids>s1</set-ids>
+			<adult>false</adult>
+			<downloadable>false</downloadable>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>false</pickup>
+			<store>false</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Двигатель, тип">Атмосферный</param>
+			<param name="Коробка передач">Механика</param>
+			<param name="Двигатель, литры">0.2</param>
+			<param name="Двигатель, л.с.">14</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+		<offer id="731949440092">
+			<name>Sharmax Sport 250 BN</name>
+			<vendor>Sharmax</vendor>
+			<description>
+<![CDATA[
+Sharmax Sport 250 BN<br /><br />Охлаждение - Воздушное<br />Материал рамы - Хромомолибденовый сплав<br />Вес 119 кг<br />Трансмиссия - Механическая<br />Длина 208 см<br />Высота 119 см<br />Фара - Есть<br />Клиренс - 340<br />Колесная база 1440<br />Система запуска - Электростартер<br />Объём двигателя, куб 250<br />Мощность (л.с.) 21<br />Объём двигателя (по диапазонам) 191 - 299<br />Мощность (по диапазонам) 21 - 25<br />Карбюратор PZ30<br />Высота по седлу 880 мм<br />Размер колес 21/18<br />Система подачи топлива - Карбюратор<br />Зажигание CDI<br />Количество тактов 4<br />Двигатель 172FMM-5<br />Количество цилиндров 1<br />Цепь 520<br />Ширина, см 85<br />Регулировка передней подвески - регулировка отбоя<br />Регулировка задней подвески - Преднатяг пружины и высоты по седлу<br /><br /><br />Обратите внимание: Производитель и импортер оставляют за собой право изменять конструкцию, технические характеристики, функции, внешний вид и комплектацию товара без предварительного уведомления.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3930-3031-4538-b038-366631376461/23f6818fdde60fec3561ca9d157f4cdc.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3263-3433-4166-b038-326466333632/06059f1ec8eb1270d0cd3ae441f80945.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3861-3663-4461-a564-326538323938/2825bc4ad2c088984210d7a7a032e50b.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3662-3533-4036-a661-323034616336/a4bb9ddff7ba5383f535feeb57aeddb8.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6632-3863-4335-b036-663362613762/547f922f09d6793a48e9b20168775e73.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3965-3764-4130-b934-386230343366/6bb9d5706b29a8cca5cb0b54d756a9ee.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3238-3033-4535-b035-376165656437/459d568db290215b422314c23f16db7d.jpg</picture>
+			<url>https://endurozone.ru/catalog/tproduct/731949440092-sharmax-sport-250-bn</url>
+			<count>9999</count>
+			<price>179900.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>141</categoryId>
+			<set-ids>s1</set-ids>
+			<adult>false</adult>
+			<downloadable>false</downloadable>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>false</pickup>
+			<store>false</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Двигатель, тип">Атмосферный</param>
+			<param name="Коробка передач">Механика</param>
+			<param name="Двигатель, литры">0.25</param>
+			<param name="Двигатель, л.с.">21</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+		<offer id="945847352172">
+			<name>Sharmax Sport 280</name>
+			<vendor>Sharmax</vendor>
+			<description>
+<![CDATA[
+Sharmax Sport 280 (2023)<br /><br />Двигатель и система питания<br /><ul><li data-list="bullet">Модель двигателя: Zongshen 172 FMM-3A</li><li data-list="bullet">Объем двигателя: 250 см³</li><li data-list="bullet">Мощность: 21 л.с.</li><li data-list="bullet">Количество распредвалов: 2 (DOHC)</li><li data-list="bullet">Охлаждение: Воздушное</li></ul>Трансмиссия и ходовая часть<br /><ul><li data-list="bullet">Трансмиссия: 5-ступенчатая (КПП из кованого металла)</li><li data-list="bullet">Лапка переключения передач: Алюминиевая, складная</li><li data-list="bullet">Рама: Симметричная дуплексная рама из высокопрочной стали (облегченная)</li><li data-list="bullet">Передняя подвеска: Амортизаторы с возможностью настройки</li><li data-list="bullet">Задняя подвеска: Регулируемая, с системой прогрессии</li></ul>Колеса <br /><ul><li data-list="bullet">Тип резины: Внедорожная </li><li data-list="bullet">Размер колес 21/18</li></ul>Габариты и эргономика<br /><ul><li data-list="bullet">Особенности конструкции: дополнительная проварка швов</li><li data-list="bullet">Высота по седлу 880 мм</li><li data-list="bullet">Колесная база 1390</li></ul>Электроника и оснащение<br /><ul><li data-list="bullet">Аккумулятор: Литий-ионный (Li-ion)</li><li data-list="bullet">Емкость аккумулятора: 7 А/ч</li></ul>
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3331-6435-4463-b635-626237616339/5450c4dd25c330df894870a07f82da64.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3836-6535-4562-a565-626366643137/c2d8c5c90ae9a76e12f1214c48a77c87.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6666-6465-4439-b735-393038396235/3914797818e97e8d259d0fadc3965251.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3134-3936-4737-a262-613236643331/ffe8b463691030307a0cbf132a3146cb.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6564-6437-4165-a166-326238313833/f3b55844585fc3b121850f5c7af3d6e0.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3032-6666-4530-b734-333536616161/07dc45af13dce8fb9b0c02a1cac253dd.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6138-3862-4661-a662-333561336236/c0a0bd3e1ebc6a5b13dbbacacd035542.jpg</picture>
+			<url>https://endurozone.ru/catalog/tproduct/945847352172-sharmax-sport-280</url>
+			<count>9999</count>
+			<price>175900.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>141</categoryId>
+			<set-ids>s1</set-ids>
+			<adult>false</adult>
+			<downloadable>false</downloadable>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>false</pickup>
+			<store>false</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Двигатель, тип">Атмосферный</param>
+			<param name="Коробка передач">Механика</param>
+			<param name="Двигатель, литры">0.25</param>
+			<param name="Двигатель, л.с.">21</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+		<offer id="388994391182">
+			<name>Sharmax Sport 300 AIR Black Edition</name>
+			<vendor>Sharmax</vendor>
+			<description>
+<![CDATA[
+Sharmax 300 AIR Black Edition<br /><br />Двигатель 175fmm-6 (PR300)<br />Охлаждение - Воздушное<br />Количество тактов 4<br />Количество цилиндров 1<br />Материал рамы - Хромомолибденовый сплав<br />Высота 119 см<br />Длина 208 см<br />Трансмиссия - Механическая<br />Вес 119 кг<br />Колеса передние 90/90/21<br />Колесная база 1390<br />Подвеска передняя - Телескопическая (перевернутого типа)<br />Подвеска задняя - Маятниковая с моноамортизатором<br />Клиренс - 340<br />Система запуска - Электростартер<br />Объём двигателя 300 куб<br />Мощность (л.с.) 25<br />Объём двигателя (по диапазонам) 300 - 500<br />Мощность (по диапазонам) 21 - 25<br />Система подачи топлива - Карбюратор<br />Карбюратор NIBBI PE-28<br />Регулировка амортизаторов - Есть<br />Регулировка задней подвески - Преднатяг пружины и высоты по седлу<br />Регулировка передней подвески - Нет<br />Ширина 85 см<br />Высота по седлу 910 мм<br />Цепь 520<br />Размер колес 21/18<br /><br />Обратите внимание: Производитель и импортер оставляют за собой право изменять конструкцию, технические характеристики, функции, внешний вид и комплектацию товара без предварительного уведомления.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6537-6638-4261-b335-633236626638/65f645b4876b6d864752945c9c78ceaa.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6161-3665-4861-a330-393332393862/4fdb6a073030c05d8cb38a4fe9edf91b.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3235-3839-4864-b637-646230376266/2906c4a6f4b999cfad0daa7ea2506bcd.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3461-3465-4462-b238-653663636264/b4c1905931e5d1fc98d809884c9cb098.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6464-3564-4733-b938-393163316265/d2aca9cfba44119cddf58e5b8a7c05a6.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3635-6637-4262-b264-326232636363/c4bd6bab77941fddecc7a5cb154e3298.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6132-3035-4033-b531-363032336365/3abc2119456700df22874dad60b724b7.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6363-6539-4865-b339-366138306461/05663699f0160002ad4b394ce5f6655a.jpg</picture>
+			<url>https://endurozone.ru/catalog/tproduct/388994391182-sharmax-sport-300-air-black-edition</url>
+			<count>9999</count>
+			<price>209900.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>141</categoryId>
+			<set-ids>s1</set-ids>
+			<adult>false</adult>
+			<downloadable>false</downloadable>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>false</pickup>
+			<store>false</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Двигатель, тип">Атмосферный</param>
+			<param name="Коробка передач">Механика</param>
+			<param name="Двигатель, литры">0.3</param>
+			<param name="Двигатель, л.с.">25</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+		<offer id="601909125152">
+			<name>Sharmax Sport 320</name>
+			<vendor>Sharmax</vendor>
+			<description>
+<![CDATA[
+Sharmax Sport 320<br /><br />Двигатель и система питания<br /><ul><li data-list="bullet">Модель двигателя: 174MN.</li><li data-list="bullet">Рабочий объем: 282 см³ ( 300 см³).</li><li data-list="bullet">Мощность: 27 л. с.</li><li data-list="bullet">Охлаждение: Жидкостное.</li><li data-list="bullet">Система питания: Карбюратор NIBBI PWK 34 Racing.</li><li data-list="bullet">Запуск: Электростартер.</li></ul>Трансмиссия<br /><ul><li data-list="bullet">Коробка передач: Механическая, 6-ступенчатая.</li><li data-list="bullet">Привод: Сальниковая цепь 520.</li><li data-list="bullet">Ведомая звезда: 47 зубьев.</li></ul>Ходовая часть и подвеска<br /><ul><li data-list="bullet">Материал рамы: Хромомолибденовый сплав.</li><li data-list="bullet">Материал маятника: Хромомолибденовый сплав.</li><li data-list="bullet">Материал ободов: Алюминиевый сплав.</li><li data-list="bullet">Передняя подвеска: Телескопическая вилка, ход 270 мм (регулировка демпфирования отбоя).</li><li data-list="bullet">Задняя подвеска: Моноамортизатор, ход 280 мм (регулировка отбоя и преднатяга пружины).</li><li data-list="bullet">Размер колёс: 21 / 18 дюймов.</li><li data-list="bullet">Шины: Sharmax Tyres.</li></ul>Габариты и масса<br /><ul><li data-list="bullet">Длина / Ширина / Высота: 2100 / 850 / 1220 мм.</li><li data-list="bullet">Колёсная база: 1450 мм.</li><li data-list="bullet">Дорожный просвет (клиренс): 300 мм.</li><li data-list="bullet">Высота по седлу: 890 мм.</li><li data-list="bullet">Снаряжённая масса: 120 кг.</li></ul>Комплектация<br /><ul><li data-list="bullet">Руль: Алюминиевый, переменного сечения (Fatbar).</li><li data-list="bullet">Органы управления: Стандартные ручки сцепления и тормоза.</li><li data-list="bullet">Приборы: Цифровая приборная панель.</li><li data-list="bullet">Защита: Защита рук, защита двигателя.</li><li data-list="bullet">Дополнительно: Подножки для второго пассажира.</li></ul>
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3234-3635-4364-a161-643963373335/0b6161b074d602ca84f2d48d7c195c67.png</picture>
+			<picture>https://static.tildacdn.com/stor3239-6337-4239-b435-623137656461/e15769c9428bba3ad56ff33b7bb0b6b0.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6630-3664-4832-a363-383065323630/c9f1ef5a8a15968fc864fb39f5b53d61.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3437-3766-4132-a666-346431623333/5d0a2b114f1516834f7232c4305b067b.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3332-3063-4666-b261-386330663932/ef9fccbd707876426625be92e93c071d.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6533-3036-4666-b736-383062643837/f549cb56a72edcbe1cc3a51f181f61a9.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3764-3639-4533-a265-353336643065/3356ca9e690abbda3e85544283e27ed8.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6430-3263-4562-b031-613162363266/a62f430d49f7867ddfbe5d2ce28aada5.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3235-6461-4330-b636-326464633631/ae51358ca99560c3c386e48a1d858b70.jpg</picture>
+			<url>https://endurozone.ru/catalog/tproduct/601909125152-sharmax-sport-320</url>
+			<count>9999</count>
+			<price>259900.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>141</categoryId>
+			<set-ids>s1</set-ids>
+			<adult>false</adult>
+			<downloadable>false</downloadable>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>false</pickup>
+			<store>false</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Двигатель, тип">Атмосферный</param>
+			<param name="Коробка передач">Механика</param>
+			<param name="Двигатель, литры">0.3</param>
+			<param name="Двигатель, л.с.">27</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+		<offer id="169350927022">
+			<name>Питбайк Sharmax Power Max 140 Mini</name>
+			<vendor>Sharmax</vendor>
+			<description>
+<![CDATA[
+Питбайк Sharmax Power Max 140 Mini<br /><br />Двигатель ZS154FMI<br />Количество тактов 4<br />Количество цилиндров 1<br />Охлаждение - Воздушное<br />Фара задняя - Есть<br />Ёмкость топливного бака, 4 л<br />Фара - Есть<br />Материал рамы - Хромомолибденовый сплав<br />Конструкция рамы - Дуплексная, симметричная<br />Аккумулятор 12V/7Аh<br />Высота 112 см<br />Длина 182 см<br />Полуавтоматическая коробка передач<br />Вес 65 кг<br />Тормоза передние - Дисковые гидравлические<br />Колесная база 1190<br />Подвеска передняя KYB-Tech Advantage<br />Подвеска задняя Алюминиевый гидравлический амортизатор KYB-Tech Advantage<br />Клиренс 310<br />Система запуска - Электростартер+кик-стартер<br />Объём двигателя 125 куб<br />Мощность (л.с.) 8<br />Объём двигателя (по диапазонам) до 125<br />Мощность (по диапазонам) 2 - 8<br />Система подачи топлива Карбюратор<br />Карбюратор Keihin PZ 26<br />Регулировка амортизаторов - Есть<br />Регулировка задней подвески - Есть<br />Регулировка передней подвески - регулировка отбоя<br />Ширина, см 74<br />Высота по седлу 700 мм<br />Цепь X-Ring 428 (FT:14T/RR:41T)<br />Диаметр колёс 14/12 дюймов<br />Зажигание CDI<br /><br />Обратите внимание: Производитель и импортер оставляют за собой право изменять конструкцию, технические характеристики, функции, внешний вид и комплектацию товара без предварительного уведомления.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6165-6665-4165-a463-643565326566/e3e47c9b300dc8890e8fda0423a4d75b.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6462-6362-4339-b439-313436373062/164803c6eeaa350382b1691dcf989a23.webp</picture>
+			<picture>https://static.tildacdn.com/stor3966-3366-4665-a566-326363643930/8d706f12cbe15acccd774f1a9e4b0107.webp</picture>
+			<picture>https://static.tildacdn.com/stor3263-3239-4333-b631-633430333236/0ab985b051c3b6df88936abd7d965681.webp</picture>
+			<picture>https://static.tildacdn.com/stor3535-3931-4130-a638-303333363036/96a33bd5535451fe3c7c9854c60fd293.webp</picture>
+			<picture>https://static.tildacdn.com/stor3036-6536-4434-b131-343937653735/a3a622066985451bbc450ea3d7f1215c.webp</picture>
+			<picture>https://static.tildacdn.com/stor6564-3936-4239-b863-323435646462/2f5a6e122d800c70291a6b5ba65c1349.webp</picture>
+			<picture>https://static.tildacdn.com/stor3063-3766-4133-b833-373538303838/bef6fb0b90d3577b1a2dc1b3288db720.webp</picture>
+			<picture>https://static.tildacdn.com/stor6435-6566-4631-b061-633534326661/8203b0066d6b6c14f5e619c445b8bdd5.webp</picture>
+			<url>https://endurozone.ru/catalog/tproduct/169350927022-pitbaik-sharmax-power-max-140-mini</url>
+			<count>9999</count>
+			<price>104900.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>141</categoryId>
+			<set-ids>s1</set-ids>
+			<adult>false</adult>
+			<downloadable>false</downloadable>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>false</pickup>
+			<store>false</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Двигатель, тип">Атмосферный</param>
+			<param name="Коробка передач">Автомат</param>
+			<param name="Двигатель, литры">0.1</param>
+			<param name="Двигатель, л.с.">8</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+		<offer id="347982492672">
+			<name>Питбайк Sharmax Power Max 145</name>
+			<vendor>Sharmax</vendor>
+			<description>
+<![CDATA[
+Двигатель и топливная система<br /><ul><li data-list="bullet">Модель двигателя: YX 153FMI (4-тактный)</li><li data-list="bullet">Объем двигателя: 125 куб. см</li><li data-list="bullet">Максимальная мощность: 10 л. с.</li><li data-list="bullet">Максимальные обороты: 5000 об/мин</li><li data-list="bullet">Система охлаждения: Воздушная</li><li data-list="bullet">Топливная система: Карбюратор PZ 22</li><li data-list="bullet">Система запуска: Электростартер</li></ul>Трансмиссия<br /><ul><li data-list="bullet">Коробка передач: Механическая, 4-ступенчатая</li><li data-list="bullet">Материал шестерней: Высокопрочный металл</li><li data-list="bullet">Лапка переключения: Алюминиевая, складная/усиленная</li></ul>Шасси и подвеска<br /><ul><li data-list="bullet">Рама: Хромомолибденовый сплав</li><li data-list="bullet">Передняя подвеска: Телескопическая вилка перевёрнутого типа</li><li data-list="bullet">Задняя подвеска: Моноамортизатор (усиленный)</li></ul>Управление и компоненты<br /><ul><li data-list="bullet">Руль: Алюминиевый, толстостенный, с регулировкой положения</li><li data-list="bullet">Рукоятки (грипсы): Мягкие, противоскользящие</li><li data-list="bullet">Защита рук: В комплекте</li></ul><br /><br />Обратите внимание: Производитель и импортер оставляют за собой право изменять конструкцию, технические характеристики, функции, внешний вид и комплектацию товара без предварительного уведомления.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6638-3631-4236-a432-313239646661/65b75ac670575edd7dd8e21128687b81.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6661-3834-4038-b639-333330636137/233bf51454d46d5548d42a65d7f3b800.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6137-6561-4266-b362-633766393465/41deabd7404fcb84465559825852deaa.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3730-3662-4363-b634-653965363039/a0a1bf7e66f7d5daacb31e3bb41e1a35.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3739-3133-4632-b131-613562386663/02d31749f7145008da4e2de5fca29e4f.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3734-3634-4432-b936-646464643037/92f3fb855655b91a9a8beccce2d43ab5.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3436-6431-4362-b866-333466646461/5113b0e334ae07167cd374d52d7476f0.jpg</picture>
+			<url>https://endurozone.ru/catalog/tproduct/347982492672-pitbaik-sharmax-power-max-145</url>
+			<count>9999</count>
+			<price>114900.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>141</categoryId>
+			<set-ids>s1</set-ids>
+			<adult>false</adult>
+			<downloadable>false</downloadable>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>false</pickup>
+			<store>false</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Двигатель, тип">Атмосферный</param>
+			<param name="Коробка передач">Механика</param>
+			<param name="Двигатель, литры">0.1</param>
+			<param name="Двигатель, л.с.">10</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+		<offer id="787341846882">
+			<name>Питбайк Sharmax Power Max 190</name>
+			<vendor>Sharmax</vendor>
+			<description>
+<![CDATA[
+Питбайк Sharmax Power Max 190<br /><br />Двигатель и топливная система<br /><ul><li data-list="bullet">Модель двигателя: YX 1P56FMJ (4-тактный)</li><li data-list="bullet">Объем двигателя: 140 куб. см</li><li data-list="bullet">Максимальная мощность: 12 л. с.</li><li data-list="bullet">Максимальные обороты: 7000 об/мин</li><li data-list="bullet">Система охлаждения: Воздушно-масляное (наличие радиатора)</li><li data-list="bullet">Топливная система: Карбюратор PZ 22</li><li data-list="bullet">Система запуска: Электростартер</li></ul>Трансмиссия<br /><ul><li data-list="bullet">Коробка передач: Механическая, 4-ступенчатая</li><li data-list="bullet">Материал шестерней: Высокопрочный металл</li><li data-list="bullet">Лапка переключения: Алюминиевая</li></ul>Шасси и подвеска<br /><ul><li data-list="bullet">Рама: Хромомолибденовый сплав</li><li data-list="bullet">Передняя подвеска: Телескопическая вилка перевёрнутого типа</li><li data-list="bullet">Задняя подвеска: Моноамортизатор</li><li data-list="bullet">Вес (сухой): 75 кг</li></ul>Габариты и управление<br /><ul><li data-list="bullet">Высота: 112 см</li><li data-list="bullet">Руль: Алюминиевый, толстостенный, регулируемый</li><li data-list="bullet">Комплектация: Мягкие грипсы, защита рук</li></ul><br /><br />Обратите внимание: Производитель и импортер оставляют за собой право изменять конструкцию, технические характеристики, функции, внешний вид и комплектацию товара без предварительного уведомления.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6361-3164-4933-b836-323238316562/ed4aa0e7811409c56d16164ec8ac82a9.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3438-6136-4462-b962-623736343163/e9165f2c7856b0fac76d2b5a66bdd976.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6266-3339-4535-b861-383437636239/e05c9e756ae4769ed2908eb5bf4c2b27.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6462-3266-4538-b061-383961353534/1e0cc56920c22d82da7c0e825928401f.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6164-3132-4464-b634-623765363062/f03c8e1f131871c30306317d48ce9a67.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6563-6137-4461-b865-613262326430/7bd80f4989da42a180e4c0c8ba96f70d.jpg</picture>
+			<url>https://endurozone.ru/catalog/tproduct/787341846882-pitbaik-sharmax-power-max-190</url>
+			<count>9999</count>
+			<price>124900.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>141</categoryId>
+			<set-ids>s1</set-ids>
+			<adult>false</adult>
+			<downloadable>false</downloadable>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>false</pickup>
+			<store>false</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Двигатель, тип">Атмосферный</param>
+			<param name="Коробка передач">Механика</param>
+			<param name="Двигатель, литры">0.1</param>
+			<param name="Двигатель, л.с.">12</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+		<offer id="773196022772">
+			<name>Sharmax PowerMax 300 air BN</name>
+			<vendor>Sharmax</vendor>
+			<description>
+<![CDATA[
+Sharmax Power Max 300 air BN<br /><br />Двигатель и топливная система<br /><ul><li data-list="bullet">Модель двигателя: Zongshen 175FMN-6 (с балансировочным валом)</li><li data-list="bullet">Объем двигателя: 300 куб. см</li><li data-list="bullet">Максимальная мощность: 27 л. с.</li><li data-list="bullet">Система охлаждения: Воздушная</li><li data-list="bullet">Топливная система: Карбюратор Nibbi PE 30</li><li data-list="bullet">Система запуска: Электростартер</li></ul>Трансмиссия и ходовая часть<br /><ul><li data-list="bullet">Коробка передач: Механическая, 6-ступенчатая (кованый металл)</li><li data-list="bullet">Рама: Симметричная дуплексная, хромомолибденовая сталь</li><li data-list="bullet">Шины: Kenda, размерность 21/18</li><li data-list="bullet">Цепь: Увеличенный запас прочности</li></ul>Подвеска и управление<br /><ul><li data-list="bullet">Передняя подвеска: Регулируемая вилка (демпфирование и отбой)</li><li data-list="bullet">Задняя подвеска: Моноамортизатор с полной регулировкой (демпфирование, отбой, преднатяг)</li><li data-list="bullet">Руль: Алюминиевый, технология FATBAR (двойное сечение)</li><li data-list="bullet">Рычаги: Складные «неломайки»</li></ul>Оснащение и комфорт<br /><ul><li data-list="bullet">Приборная панель: Информативная (с индикацией показателей)</li><li data-list="bullet">Дополнительно: Разъемы для зарядки, подножки для пассажира, брызговик со стоп-сигналом</li><li data-list="bullet">Сиденье: Нескользящее покрытие, регулировка по высоте</li></ul><br /><br />Обратите внимание: Производитель и импортер оставляют за собой право изменять конструкцию, технические характеристики, функции, внешний вид и комплектацию товара без предварительного уведомления.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3132-3936-4035-b538-393934313631/a8103536035f03d8469db5829c89748a.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6332-3934-4566-b637-366462363862/4144e5aa55fdf0803120866c9e55665e.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6663-3263-4037-a338-303137366661/9252faf28d00c4b9ff2e3d53738ae712.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3666-6338-4138-b330-353935333733/74bce1e45a4c9886744044ac7c5ef2c7.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6537-3065-4338-b238-376137316238/69cfbb45688ec57f598420d3ff5094c4.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6534-6531-4961-a338-383961646261/7cedf0de96b33f9eca74681de5dfb85f.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6130-3938-4433-b533-633130623737/8dc6006631016d9a0c3d563d00409069.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3139-6261-4336-b936-303235316333/17b81291a7f1cc238d85aa90f0c7e533.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6531-6430-4733-b764-383963633434/dc137e221c4436b6d940e15ba62d6454.jpg</picture>
+			<url>https://endurozone.ru/catalog/tproduct/773196022772-sharmax-powermax-300-air-bn</url>
+			<count>9999</count>
+			<price>239900.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>141</categoryId>
+			<set-ids>s1</set-ids>
+			<adult>false</adult>
+			<downloadable>false</downloadable>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>false</pickup>
+			<store>false</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Двигатель, тип">Атмосферный</param>
+			<param name="Коробка передач">Механика</param>
+			<param name="Двигатель, литры">0.3</param>
+			<param name="Двигатель, л.с.">27</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+		<offer id="987008306652">
+			<name>Sharmax Power Max 320</name>
+			<vendor>Sharmax</vendor>
+			<description>
+<![CDATA[
+Sharmax Power Max 320<br /><br />Двигатель и система питания<br /><ul><li data-list="bullet">Модель двигателя: ZS174MN (Zongshen).</li><li data-list="bullet">Тип двигателя: 4-тактный.</li><li data-list="bullet">Рабочий объем: 300 см³.</li><li data-list="bullet">Мощность: 27 л. с.</li><li data-list="bullet">Система подачи топлива: Карбюратор Nibbi PWK34.</li><li data-list="bullet">Охлаждение: Жидкостное.</li><li data-list="bullet">Зажигание: CDI.</li><li data-list="bullet">Система запуска: Электростартер и кикстартер.</li><li data-list="bullet">Тип топлива: АИ 95–98.</li></ul>Трансмиссия<br /><ul><li data-list="bullet">Коробка передач: Механическая, 5-ступенчатая.</li><li data-list="bullet">Цепь: KMC 520, GOLD.</li><li data-list="bullet">Ведомая звезда: 43 зуба.</li></ul>Ходовая часть и подвеска<br /><ul><li data-list="bullet">Материал рамы: Хромомолибденовый сплав.</li><li data-list="bullet">Материал маятника: Алюминий.</li><li data-list="bullet">Передняя подвеска: Телескопическая вилка перевернутого типа.</li><li data-list="bullet">Регулировки передней подвески: Демпфирование отбоя и сжатия.</li><li data-list="bullet">Ход передней подвески: 270 мм.</li><li data-list="bullet">Задняя подвеска: Маятниковая с моноамортизатором.</li><li data-list="bullet">Регулировки задней подвески: Демпфирование отбоя и преднатяг пружины.</li><li data-list="bullet">Ход задней подвески: 280 мм.</li></ul>Тормозная система и колеса<br /><ul><li data-list="bullet">Тормоза (перед/зад): Дисковые гидравлические.</li><li data-list="bullet">Размерность колес: 21 / 18 дюймов.</li><li data-list="bullet">Передняя шина: 80/100-21.</li><li data-list="bullet">Задняя шина: 110/90-18.</li></ul>Габариты и масса<br /><ul><li data-list="bullet">Длина / Ширина: 2180 мм / 890 мм.</li><li data-list="bullet">Высота по седлу: 890 мм.</li><li data-list="bullet">Дорожный просвет (клиренс): 300 мм.</li><li data-list="bullet">Колесная база: 1480 мм.</li><li data-list="bullet">Сухая масса: 125 кг.</li></ul><br /><br />Обратите внимание: Производитель и импортер оставляют за собой право изменять конструкцию, технические характеристики, функции, внешний вид и комплектацию товара без предварительного уведомления.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6235-3334-4661-b335-643836613063/48950afb0dcf4732c49ed59a3080ca8c.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3238-3037-4166-a231-336539353131/11522a674c008f6923688020bd467d0a.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6263-6235-4666-b865-333939356162/46550109eb5849d1a8b9377b71c27651.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3134-6134-4535-a663-373665306363/9165dcc22f7b3d8995a4b612c93e36be.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3566-3737-4335-a632-333863366138/54557f97888795057287600f4c27e547.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3065-3730-4435-b030-343231396463/b531d7dd388c0c9e83f4f7521ec6d0fd.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3037-3362-4538-b635-613830613066/e9d30f48636b8c2d8884584f11989bb3.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6239-3862-4663-b733-376136306464/c765c6d272ad0637034487021a5debc9.jpg</picture>
+			<url>https://endurozone.ru/catalog/tproduct/987008306652-sharmax-power-max-320</url>
+			<count>9999</count>
+			<price>269900.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>141</categoryId>
+			<set-ids>s1</set-ids>
+			<adult>false</adult>
+			<downloadable>false</downloadable>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>false</pickup>
+			<store>false</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Двигатель, тип">Атмосферный</param>
+			<param name="Коробка передач">Механика</param>
+			<param name="Двигатель, литры">0.3</param>
+			<param name="Двигатель, л.с.">27</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+		<offer id="740684568652">
+			<name>Sharmax Tour Enduro 300 Ultra ( ПТС )</name>
+			<vendor>Sharmax</vendor>
+			<description>
+<![CDATA[
+Sharmax Tour Enduro 300 <br /><br />Двигатель и КПП<br /><ul><li data-list="bullet">Тип двигателя: 4-тактный, одноцилиндровый</li><li data-list="bullet">Объем двигателя: 249 куб. см</li><li data-list="bullet">Максимальная мощность: 27 л. с.</li><li data-list="bullet">Максимальные обороты: 7500 об/мин</li><li data-list="bullet">Охлаждение: Воздушно-масляное</li><li data-list="bullet">Трансмиссия: Механическая, 6-ступенчатая</li><li data-list="bullet">Особенности: Отсутствие вибраций во всех режимах работы</li></ul>Ходовая часть и подвеска<br /><ul><li data-list="bullet">Рама: Сварная из стальных труб (высокая жесткость)</li><li data-list="bullet">Передняя подвеска: Телескопическая вилка перевернутого типа</li><li data-list="bullet">Задняя подвеска: Двухсторонний маятник с моноамортизатором</li><li data-list="bullet">Колеса: Спицованные диски</li><li data-list="bullet">Шины: Передняя 110/90-17, задняя 130/80-17 (универсальный протектор)</li></ul>Эксплуатационные показатели<br /><ul><li data-list="bullet">Объем топливного бака: 14 литров</li><li data-list="bullet">Расход топлива: 3,2–4,0 л / 100 км</li><li data-list="bullet">Запас хода: более 400 км</li><li data-list="bullet">Рекомендуемый рост райдера: 170–185 см</li></ul>Оснащение и электроника<br /><ul><li data-list="bullet">Оптика: Полностью светодиодная (LED)</li><li data-list="bullet">Приборная панель: Электронная (LCD)</li><li data-list="bullet">Дополнительно: Пассажирские подножки, эргономичное сиденье для двоих, развитая ветрозащита (пластиковое оперение)</li></ul><br /><br /><br />Обратите внимание: Производитель и импортер оставляют за собой право изменять конструкцию, технические характеристики, функции, внешний вид и комплектацию товара без предварительного уведомления.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3863-3564-4161-b565-356165376132/048f1761b2aa3700d1bf262ec72552db.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3236-3736-4632-b031-336630356461/d4283c988e9c24c8c2840b17bb6a6f54.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3237-6337-4638-b465-616362613334/b61d2a9f5f5e3ae978400b3349758fef.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3631-3439-4530-b265-313339386263/09232aa30c210de03a3ed006259bf61a.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3330-3161-4636-b236-626338393730/3f45d09b4e77dfa6d3df368f18a003f2.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3536-3432-4636-a436-623030326462/8b431d39a34bcf632c3ae0d51af30370.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6338-3663-4036-b632-323933656563/dbb0d0c535bd8c2b3ea911868eb834a3.jpg</picture>
+			<url>https://endurozone.ru/catalog/tproduct/740684568652-sharmax-tour-enduro-300-ultra-pts-</url>
+			<count>9999</count>
+			<price>269900.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>141</categoryId>
+			<set-ids>s1</set-ids>
+			<adult>false</adult>
+			<downloadable>false</downloadable>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>false</pickup>
+			<store>false</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Двигатель, тип">Атмосферный</param>
+			<param name="Коробка передач">Механика</param>
+			<param name="Двигатель, литры">0.25</param>
+			<param name="Двигатель, л.с.">27</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+		</offers>
+	</shop>
+</yml_catalog>
