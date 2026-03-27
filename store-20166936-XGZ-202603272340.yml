@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-03-27 23:40">
+	<shop>
+		<name>Зона Эндуро</name>
+		<company>ЗОНА ЭНДУРО</company>
+		<url>https://endurozone.ru</url>
+		<platform>Tilda Publishing</platform>
+		<version>1.1</version>
+		<currencies>
+			<currency id="RUB" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="13">Мототранспорт</category>
+			<category id="141" parentId="13">Мотоциклы</category>
+			<category id="879202789612" parentId="141">Эндуро мотоциклы XGZ</category>
+		</categories>
+		<sets>
+			<set id="s4">
+				<name>Эндуро мотоциклы XGZ</name>
+				<url>https://endurozone.ru/catalog?tfc_sort%5B1770014951%5D=price:asc&amp;tfc_storepartuid%5B1770014951%5D=%D0%AD%D0%BD%D0%B4%D1%83%D1%80%D0%BE+%D0%B8+%D0%BA%D1%80%D0%BE%D1%81%D1%81%D0%BE%D0%B2%D1%8B%D0%B5+%D0%BC%D0%BE%D1%82%D0%BE%D1%86%D0%B8%D0%BA%D0%BB%D1%8B/@/XGZ&amp;tfc_div=:::</url>
+			</set>
+		</sets>
+		<offers>
+
+		<offer id="541614687712">
+			<name>Мотоцикл XGZ K26L-YB300H</name>
+			<vendor>XGZ</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/541614687712-xgz-k26l-yb300h</url>
+			<price>198900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>879202789612</categoryId>
+			<set-ids>s4</set-ids>
+			<picture>https://static.tildacdn.com/stor3438-3166-4231-a635-643965393861/835cdc4f53df90e48708dffd42d98421.jpg</picture>
+			<description><![CDATA[Мотоцикл XGZ K26L-YB300H с 4-тактным двигателем Loncin LX176FMN (24.5 л.с.) и карбюратором NIBBI PE34. Надежная рама из высокоуглеродистой стали Q345 и полностью регулируемая подвеска MNT.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый, 4-тактный, 4-клапанный</param>
+			<param name="Марка двигателя">Loncin LX176FMN (YB300H)</param>
+			<param name="Объем двигателя" unit="см3">285.8</param>
+			<param name="Мощность" unit="л.с.">24.5</param>
+			<param name="Охлаждение">Воздушное</param>
+			<param name="Система подачи топлива">Карбюратор NIBBI PE34</param>
+			<param name="Запуск двигателя">Электростартер</param>
+			<param name="Коробка передач">Механика (6-ступенчатая)</param>
+			<param name="Рама">Q345 (Высокоуглеродистая сталь)</param>
+			<param name="Передняя подвеска">MNT 41мм перевернутого типа (регулируемая)</param>
+			<param name="Задняя подвеска">MNT моноамортизатор (регулируемый без прогрессии)</param>
+			<param name="Размер колес">21/18</param>
+			<param name="Вес" unit="кг">122</param>
+			<param name="Объем бака" unit="л">8.8</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="520233471482">
+			<name>Мотоцикл XGZ K26L PR300PRO</name>
+			<vendor>XGZ</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/520233471482-xgz-k26l-pr300pro</url>
+			<price>199900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>879202789612</categoryId>
+			<set-ids>s4</set-ids>
+			<picture>https://static.tildacdn.com/stor3331-3965-4866-b431-356263313230/032cb85b2180c15978804bf0f0a0e0e6.jpg</picture>
+			<description><![CDATA[Эндуро мотоцикл XGZ K26L PR300PRO с двигателем Zongshen PR300PRO (25 л.с.) и регулируемой подвеской MNT. Отличная управляемость на бездорожье.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый, 4-тактный, 2-клапанный</param>
+			<param name="Марка двигателя">Zongshen PR300PRO (ZS177FMN)</param>
+			<param name="Объем двигателя" unit="см3">297.9</param>
+			<param name="Мощность" unit="л.с.">25</param>
+			<param name="Охлаждение">Воздушное</param>
+			<param name="Система подачи топлива">Карбюратор NIBBI PE34</param>
+			<param name="Запуск двигателя">Электростартер</param>
+			<param name="Коробка передач">Механика (6-ступенчатая)</param>
+			<param name="Рама">Q345 (Высокоуглеродистая сталь)</param>
+			<param name="Передняя подвеска">MNT 41мм перевернутого типа (регулируемая)</param>
+			<param name="Задняя подвеска">MNT моноамортизатор (регулируемый без прогрессии)</param>
+			<param name="Размер колес">21/18</param>
+			<param name="Вес" unit="кг">122</param>
+			<param name="Объем бака" unit="л">8.8</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="515546549942">
+			<name>Мотоцикл XGZ KTX NB300</name>
+			<vendor>XGZ</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/515546549942-xgz-ktx-nb300</url>
+			<price>243900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>879202789612</categoryId>
+			<set-ids>s4</set-ids>
+			<picture>https://static.tildacdn.com/stor3530-3765-4631-b339-643731306235/e18d2da2a393fa5c7088ca2e187511c8.png</picture>
+			<description><![CDATA[Продвинутый эндуро XGZ KTX NB300 с водяным охлаждением. Двигатель ZS 174MN (28 л.с.), хромомолибденовая рама и подвеска с прогрессией.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый, 4-тактный</param>
+			<param name="Марка двигателя">ZS 174MN (NB300)</param>
+			<param name="Объем двигателя" unit="см3">279</param>
+			<param name="Мощность" unit="л.с.">28</param>
+			<param name="Охлаждение">Водяное</param>
+			<param name="Система подачи топлива">Карбюратор NIBBI PWK34</param>
+			<param name="Запуск двигателя">Электростартер</param>
+			<param name="Коробка передач">Механика (6-ступенчатая)</param>
+			<param name="Рама">Хромомолибденовая сталь</param>
+			<param name="Передняя подвеска">MNT перевернутого типа (все регулировки)</param>
+			<param name="Задняя подвеска">MNT моноамортизатор (регулируемый с прогрессией)</param>
+			<param name="Размер колес">21/18</param>
+			<param name="Вес" unit="кг">122</param>
+			<param name="Объем бака" unit="л">7.8</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="954590653462">
+			<name>Мотоцикл XGZ GTS PR300</name>
+			<vendor>XGZ</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/954590653462-xgz-gts-pr300</url>
+			<price>144900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>879202789612</categoryId>
+			<set-ids>s4</set-ids>
+			<picture>https://static.tildacdn.com/stor6333-3361-4432-a166-333030643834/6a13242b0e8e1f47eeea2848420d092f.jpg</picture>
+			<description><![CDATA[Мотоцикл XGZ GTS PR300 с двигателем ZS 175FMN (с балансировочным валом, 25 л.с.). Легкий вес (110 кг) и карбюратор NIBBI PE30 Racing.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый (с балансировочным валом)</param>
+			<param name="Марка двигателя">ZS 175FMN (PR300)</param>
+			<param name="Объем двигателя" unit="см3">271</param>
+			<param name="Мощность" unit="л.с.">25</param>
+			<param name="Охлаждение">Воздушное</param>
+			<param name="Система подачи топлива">Карбюратор NIBBI PE30 Racing</param>
+			<param name="Запуск двигателя">Электростартер + кикстартер</param>
+			<param name="Коробка передач">Механика (5-ступенчатая)</param>
+			<param name="Рама">Стальная</param>
+			<param name="Передняя подвеска">XGZ перевернутого типа</param>
+			<param name="Задняя подвеска">XGZ моноамортизатор (с прогрессией)</param>
+			<param name="Размер колес">21/18</param>
+			<param name="Вес" unit="кг">110</param>
+			<param name="Объем бака" unit="л">7</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="817340489142">
+			<name>Мотоцикл XGZ CQR CB250</name>
+			<vendor>XGZ</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/817340489142-xgz-cqr-cb250</url>
+			<price>109900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>879202789612</categoryId>
+			<set-ids>s4</set-ids>
+			<picture>https://static.tildacdn.com/stor6132-6335-4133-a364-643631343162/32cfc044e617fda707225dda82ff6f9d.jpg</picture>
+			<description><![CDATA[Бюджетный эндуро мотоцикл XGZ CQR CB250. Надежный мотор ZS 165FMM (17 л.с.), бак на 10 литров и подножки для пассажира.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый</param>
+			<param name="Марка двигателя">ZS 165FMM (CB250)</param>
+			<param name="Объем двигателя" unit="см3">223</param>
+			<param name="Мощность" unit="л.с.">17</param>
+			<param name="Охлаждение">Воздушное</param>
+			<param name="Система подачи топлива">Карбюратор PZ30</param>
+			<param name="Запуск двигателя">Электростартер + кикстартер</param>
+			<param name="Коробка передач">Механика (5-ступенчатая)</param>
+			<param name="Рама">Стальная</param>
+			<param name="Задняя подвеска">XGZ моноамортизатор (с прогрессией)</param>
+			<param name="Размер колес">21/18</param>
+			<param name="Вес" unit="кг">117</param>
+			<param name="Объем бака" unit="л">10</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="626010317932">
+			<name>Мотоцикл XGZ N911A CB300</name>
+			<vendor>XGZ</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/626010317932-xgz-n911a-cb300</url>
+			<price>129900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>879202789612</categoryId>
+			<set-ids>s4</set-ids>
+			<picture>https://static.tildacdn.com/stor3061-3630-4637-b266-616537626639/5f63fa2e30dd4d12e1c1ee8728115341.png</picture>
+			<description><![CDATA[Мотоцикл XGZ N911A CB300 на легкой хромомолибденовой раме. Двигатель ZS 175FMM (25 л.с.) и регулируемый воздушный амортизатор.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый</param>
+			<param name="Марка двигателя">ZS 175FMM (CB300)</param>
+			<param name="Объем двигателя" unit="см3">271</param>
+			<param name="Мощность" unit="л.с.">25</param>
+			<param name="Охлаждение">Воздушное</param>
+			<param name="Система подачи топлива">Карбюратор NIBBI PE30</param>
+			<param name="Запуск двигателя">Электростартер</param>
+			<param name="Коробка передач">Механика (5-ступенчатая)</param>
+			<param name="Рама">Хромомолибденовая сталь</param>
+			<param name="Передняя подвеска">XGZ перевернутого типа</param>
+			<param name="Задняя подвеска">XGZ воздушный амортизатор (регулируемый)</param>
+			<param name="Размер колес">21/18</param>
+			<param name="Вес" unit="кг">105</param>
+			<param name="Объем бака" unit="л">6</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="204415614232">
+			<name>Мотоцикл XGZ CQR CB300</name>
+			<vendor>XGZ</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/204415614232-xgz-cqr-cb300</url>
+			<price>129900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>879202789612</categoryId>
+			<set-ids>s4</set-ids>
+			<picture>https://static.tildacdn.com/stor3763-3039-4362-b539-616138373966/943c0d91e1f652a7759551399e78dc60.png</picture>
+			<description><![CDATA[Мотоцикл XGZ CQR CB300. Оснащен багажником, поворотниками и стоп-сигналом. Мощность 25 л.с., карбюратор NIBBI PE30.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый</param>
+			<param name="Марка двигателя">ZS 175FMN (CB300)</param>
+			<param name="Объем двигателя" unit="см3">271</param>
+			<param name="Мощность" unit="л.с.">25</param>
+			<param name="Охлаждение">Воздушное</param>
+			<param name="Система подачи топлива">Карбюратор NIBBI PE30</param>
+			<param name="Запуск двигателя">Электростартер</param>
+			<param name="Коробка передач">Механика (5-ступенчатая)</param>
+			<param name="Рама">Стальная</param>
+			<param name="Размер колес">21/18</param>
+			<param name="Вес" unit="кг">117</param>
+			<param name="Объем бака" unit="л">7</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="403334165022">
+			<name>Мотоцикл XGZ G26-CB300RL</name>
+			<vendor>XGZ</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/403334165022-xgz-g26-cb300rl</url>
+			<price>239900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>879202789612</categoryId>
+			<set-ids>s4</set-ids>
+			<picture>https://static.tildacdn.com/stor6630-3262-4566-b062-363935636637/3e0b62e02721da93262b2beba19fe267.jpg</picture>
+			<description><![CDATA[Спортивный эндуро XGZ G26-CB300RL. Хромомолибденовая рама, двигатель ZS175FMM-7 (27 л.с.), карбюратор NIBBI PWK32 и полностью регулируемая подвеска MNT.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый</param>
+			<param name="Марка двигателя">ZS175FMM-7 (CB300RL)</param>
+			<param name="Объем двигателя" unit="см3">271</param>
+			<param name="Мощность" unit="л.с.">27</param>
+			<param name="Охлаждение">Воздушное</param>
+			<param name="Система подачи топлива">Карбюратор NIBBI PWK32</param>
+			<param name="Запуск двигателя">Электростартер</param>
+			<param name="Коробка передач">Механика (5-ступенчатая)</param>
+			<param name="Рама">Хромомолибденовая сталь</param>
+			<param name="Передняя подвеска">MNT перевернутого типа (регулируемая)</param>
+			<param name="Задняя подвеска">MNT моноамортизатор (с прогрессией)</param>
+			<param name="Размер колес">21/18</param>
+			<param name="Вес" unit="кг">122</param>
+			<param name="Объем бака" unit="л">8.8</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="787078354622">
+			<name>Мотоцикл XGZ G26 YBS300</name>
+			<vendor>XGZ</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/787078354622-xgz-g26-ybs300</url>
+			<price>249900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>879202789612</categoryId>
+			<set-ids>s4</set-ids>
+			<picture>https://static.tildacdn.com/stor6361-3038-4133-b634-353966643466/7f1281d9161df37debf6aec7d6355f81.png</picture>
+			<description><![CDATA[Мощный мотоцикл XGZ G26 YBS300 с двигателем водяного охлаждения Loncin (28.5 л.с., 4 клапана). Оснащен 6-ступенчатой КПП и карбюратором NIBBI PWK34.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый, 4-клапанный</param>
+			<param name="Марка двигателя">Loncin (YBS300)</param>
+			<param name="Объем двигателя" unit="см3">294.9</param>
+			<param name="Мощность" unit="л.с.">28.5</param>
+			<param name="Охлаждение">Водяное</param>
+			<param name="Система подачи топлива">Карбюратор NIBBI PWK34 Black</param>
+			<param name="Запуск двигателя">Электростартер</param>
+			<param name="Коробка передач">Механика (6-ступенчатая)</param>
+			<param name="Рама">Q345 (Высокоуглеродистая сталь)</param>
+			<param name="Передняя подвеска">MNT перевернутого типа (регулируемая)</param>
+			<param name="Задняя подвеска">MNT моноамортизатор (с прогрессией)</param>
+			<param name="Размер колес">21/18</param>
+			<param name="Вес" unit="кг">118</param>
+			<param name="Объем бака" unit="л">8.8</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="705274426962">
+			<name>Мотоцикл XGZ H26S YBS300</name>
+			<vendor>XGZ</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/705274426962-xgz-h26s-ybs300</url>
+			<price>249900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>879202789612</categoryId>
+			<set-ids>s4</set-ids>
+			<picture>https://static.tildacdn.com/stor6136-3237-4738-a531-633763383863/52ef61994b728078afeca8e5e43e8f0d.jpg</picture>
+			<description><![CDATA[Эндуро XGZ H26S YBS300. Выдает 29 л.с. благодаря 4-клапанному мотору Loncin с водяным охлаждением.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый, 4-клапанный</param>
+			<param name="Марка двигателя">Loncin (YBS300)</param>
+			<param name="Объем двигателя" unit="см3">295</param>
+			<param name="Мощность" unit="л.с.">29</param>
+			<param name="Охлаждение">Водяное</param>
+			<param name="Система подачи топлива">Карбюратор NIBBI PWK34</param>
+			<param name="Запуск двигателя">Электростартер</param>
+			<param name="Коробка передач">Механика (6-ступенчатая)</param>
+			<param name="Рама">Высокоуглеродистая сталь</param>
+			<param name="Передняя подвеска">MNT перевернутого типа (регулируемая)</param>
+			<param name="Задняя подвеска">MNT моноамортизатор (с прогрессией)</param>
+			<param name="Размер колес">21/18</param>
+			<param name="Вес" unit="кг">122</param>
+			<param name="Объем бака" unit="л">7.8</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="193606313052">
+			<name>Мотоцикл XGZ H26S NB300</name>
+			<vendor>XGZ</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/193606313052-xgz-h26s-nb300</url>
+			<price>247900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>879202789612</categoryId>
+			<set-ids>s4</set-ids>
+			<picture>https://static.tildacdn.com/stor3761-3564-4432-a137-343536313233/bd1f0f39949c671978f57828143cca94.png</picture>
+			<description><![CDATA[Мотоцикл XGZ H26S NB300 с 4-клапанным двигателем ZS 174MN водяного охлаждения (28 л.с.). Подвеска MNT и диски Unison.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый, 4-клапанный</param>
+			<param name="Марка двигателя">ZS 174MN (NB300)</param>
+			<param name="Объем двигателя" unit="см3">279</param>
+			<param name="Мощность" unit="л.с.">28</param>
+			<param name="Охлаждение">Водяное</param>
+			<param name="Система подачи топлива">Карбюратор NIBBI PWK34</param>
+			<param name="Запуск двигателя">Электростартер</param>
+			<param name="Коробка передач">Механика (6-ступенчатая)</param>
+			<param name="Рама">Высокоуглеродистая сталь</param>
+			<param name="Передняя подвеска">MNT перевернутого типа (регулируемая)</param>
+			<param name="Задняя подвеска">MNT моноамортизатор (с прогрессией)</param>
+			<param name="Размер колес">21/18</param>
+			<param name="Вес" unit="кг">122</param>
+			<param name="Объем бака" unit="л">7.8</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="960343082132">
+			<name>Мотоцикл XGZ K26S-YBS300</name>
+			<vendor>XGZ</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/960343082132-xgz-k26s-ybs300</url>
+			<price>249900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>879202789612</categoryId>
+			<set-ids>s4</set-ids>
+			<picture>https://static.tildacdn.com/stor3234-6531-4537-b435-386364303462/2e63f039f01bc4cadfdf5c504dd8d6b7.jpg</picture>
+			<description><![CDATA[Профессиональный эндуро XGZ K26S-YBS300. Двигатель Loncin (29 л.с.), водяное охлаждение и полностью регулируемая подвеска.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый, 4-клапанный</param>
+			<param name="Марка двигателя">Loncin (YBS300)</param>
+			<param name="Объем двигателя" unit="см3">295</param>
+			<param name="Мощность" unit="л.с.">29</param>
+			<param name="Охлаждение">Водяное</param>
+			<param name="Система подачи топлива">Карбюратор NIBBI PWK34</param>
+			<param name="Запуск двигателя">Электростартер</param>
+			<param name="Коробка передач">Механика (6-ступенчатая)</param>
+			<param name="Рама">Высокоуглеродистая сталь</param>
+			<param name="Передняя подвеска">MNT перевернутого типа (регулируемая)</param>
+			<param name="Задняя подвеска">MNT моноамортизатор (с прогрессией)</param>
+			<param name="Размер колес">21/18</param>
+			<param name="Вес" unit="кг">122</param>
+			<param name="Объем бака" unit="л">7.8</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="605858205072">
+			<name>Питбайк TURRUT TBRU12-01 BT140 (17/14)</name>
+			<vendor>TURRUT</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/605858205072-pitbaik-turrut-tbru12-01-bt140-1714</url>
+			<price>109900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>879202789612</categoryId>
+			<set-ids>s4</set-ids>
+			<picture>https://static.tildacdn.com/stor6463-3231-4836-b235-653430623636/a73e51a252b5b643af2a273d9ae04a41.png</picture>
+			<description><![CDATA[Питбайк TURRUT TBRU12-01 BT140 на колесах 17/14. Воздушно-масляное охлаждение, стальная рама и гидравлические тормоза.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый, 4-тактный</param>
+			<param name="Объем двигателя" unit="см3">140</param>
+			<param name="Охлаждение">Воздушно-масляное</param>
+			<param name="Система подачи топлива">Карбюратор</param>
+			<param name="Запуск двигателя">Электростартер + кикстартер</param>
+			<param name="Коробка передач">Механика (4-ступенчатая)</param>
+			<param name="Рама">Стальная</param>
+			<param name="Передняя подвеска">Телескопическая (780 мм, регулируемая)</param>
+			<param name="Задняя подвеска">Моноамортизатор (325 мм)</param>
+			<param name="Размер колес">17/14</param>
+			<param name="Вес" unit="кг">79</param>
+			<param name="Объем бака" unit="л">5.8</param>
+			<param name="Колесная база" unit="мм">1225</param>
+			<param name="Высота по седлу" unit="мм">830</param>
+			<param name="Клиренс" unit="мм">320</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="647488751762">
+			<name>Питбайк TURRUT TBRU12-01 BT140 19/16</name>
+			<vendor>TURRUT</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/647488751762-pitbaik-turrut-tbru12-01-bt140-1916</url>
+			<price>111900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>879202789612</categoryId>
+			<set-ids>s4</set-ids>
+			<picture>https://static.tildacdn.com/stor6265-3931-4332-b834-336664366435/081fff0fbb6e253f5060d7a5fc5c1700.png</picture>
+			<description><![CDATA[Питбайк TURRUT TBRU12-01 BT140 на увеличенных колесах 19/16. Оснащен карбюратором Nibbi PE24, датчиком моточасов и моноамортизатором с подкачкой воздуха.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый, 4-тактный</param>
+			<param name="Объем двигателя" unit="см3">140</param>
+			<param name="Мощность" unit="л.с.">12</param>
+			<param name="Охлаждение">Воздушно-масляное</param>
+			<param name="Система подачи топлива">Карбюратор Nibbi PE24</param>
+			<param name="Запуск двигателя">Электростартер + кикстартер</param>
+			<param name="Коробка передач">Механика (4-ступенчатая)</param>
+			<param name="Рама">Стальная</param>
+			<param name="Передняя подвеска">Телескопическая (780 мм, регулируемая)</param>
+			<param name="Задняя подвеска">Моноамортизатор (325 мм, с подкачкой воздуха)</param>
+			<param name="Размер колес">19/16</param>
+			<param name="Вес" unit="кг">84</param>
+			<param name="Объем бака" unit="л">5.8</param>
+			<param name="Колесная база" unit="мм">1290</param>
+			<param name="Высота по седлу" unit="мм">860</param>
+			<param name="Клиренс" unit="мм">340</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="827832817682">
+			<name>Питбайк SYING K3 17/14</name>
+			<vendor>SYING</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/827832817682-pitbaik-sying-k3-1714</url>
+			<price>91900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>879202789612</categoryId>
+			<set-ids>s4</set-ids>
+			<picture>https://static.tildacdn.com/stor3665-3834-4439-a663-636431333431/32dc89c801551c776963352217e64f4c.jpg</picture>
+			<description><![CDATA[Легкий питбайк SYING K3 17/14 на эксклюзивной треугольной бесшовной раме Sy Exclusive. Мощность 10 л.с., отличный выбор для старта.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый, 4-тактный</param>
+			<param name="Марка двигателя">HS125</param>
+			<param name="Объем двигателя" unit="см3">125</param>
+			<param name="Мощность" unit="л.с.">10</param>
+			<param name="Охлаждение">Воздушное</param>
+			<param name="Система подачи топлива">Карбюратор</param>
+			<param name="Запуск двигателя">Электростартер + кикстартер</param>
+			<param name="Коробка передач">Механика (4-ступенчатая)</param>
+			<param name="Рама">Бесшовная (Sy Exclusive)</param>
+			<param name="Передняя подвеска">Перевернутая вилка (нерегулируемая)</param>
+			<param name="Задняя подвеска">Амортизатор с демпфером (нерегулируемый)</param>
+			<param name="Размер колес">17/14</param>
+			<param name="Объем бака" unit="л">4</param>
+			<param name="Колесная база" unit="мм">1275</param>
+			<param name="Высота по седлу" unit="мм">860</param>
+			<param name="Клиренс" unit="мм">340</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="344237248532">
+			<name>Питбайк SYING PAD125-3</name>
+			<vendor>SYING</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/344237248532-pitbaik-sying-pad125-3</url>
+			<price>83900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>879202789612</categoryId>
+			<set-ids>s4</set-ids>
+			<picture>https://static.tildacdn.com/stor3538-3966-4833-b963-376130356562/ff1e13db2390412e17c1b580b2984cf3.png</picture>
+			<description><![CDATA[Доступный питбайк SYING PAD125-3. Двигатель 125cc (10 л.с.), кикстартер и стальная рама. Идеален для дачи и обучения.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый, 4-тактный</param>
+			<param name="Объем двигателя" unit="см3">125</param>
+			<param name="Мощность" unit="л.с.">10</param>
+			<param name="Охлаждение">Воздушное</param>
+			<param name="Система подачи топлива">Карбюратор</param>
+			<param name="Запуск двигателя">Кикстартер</param>
+			<param name="Коробка передач">Механика (4-ступенчатая)</param>
+			<param name="Рама">Стальная</param>
+			<param name="Передняя подвеска">Телескопическая вилка (780 мм)</param>
+			<param name="Задняя подвеска">Моноамортизатор (280 мм)</param>
+			<param name="Размер колес">17/14</param>
+			<param name="Объем бака" unit="л">5</param>
+			<param name="Колесная база" unit="мм">1185</param>
+			<param name="Высота по седлу" unit="мм">840</param>
+			<param name="Клиренс" unit="мм">360</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		</offers>
+	</shop>
+</yml_catalog>
