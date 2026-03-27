@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-03-27 23:25">
+	<shop>
+		<name>Зона Эндуро</name>
+		<company>ЗОНА ЭНДУРО</company>
+		<url>https://endurozone.ru</url>
+		<platform>Tilda Publishing</platform>
+		<version>1.1</version>
+		<currencies>
+			<currency id="RUB" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="13">Мототранспорт</category>
+			<category id="141" parentId="13">Мотоциклы</category>
+			<category id="896432000602" parentId="141">Эндуро мотоциклы Avantis</category>
+		</categories>
+		<sets>
+			<set id="s3">
+				<name>Эндуро мотоциклы Avantis</name>
+				<url>https://endurozone.ru/catalog?tfc_sort%5B1770014951%5D=price:asc&amp;tfc_storepartuid%5B1770014951%5D&amp;tfc_storepartuid%5B1770014951%5D&amp;tfc_storepartuid%5B1770014951%5D=%D0%AD%D0%BD%D0%B4%D1%83%D1%80%D0%BE+%D0%B8+%D0%BA%D1%80%D0%BE%D1%81%D1%81%D0%BE%D0%B2%D1%8B%D0%B5+%D0%BC%D0%BE%D1%82%D0%BE%D1%86%D0%B8%D0%BA%D0%BB%D1%8B/@/Avantis&amp;tfc_div=:::</url>
+			</set>
+		</sets>
+		<offers>
+
+		<offer id="547734768132">
+			<name>Мотоцикл Avantis A2 HSQ CB300</name>
+			<vendor>Avantis</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/547734768132-avantis-a2-hsq-cb300</url>
+			<price>167900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>896432000602</categoryId>
+			<set-ids>s3</set-ids>
+			<picture>https://static.tildacdn.com/stor3832-3333-4338-b439-313962623765/6da8ddfd85d1f3d09770eb9a2beedee6.png</picture>
+			<description><![CDATA[Мотоцикл Avantis A2 HSQ CB300. Отличный выбор для покорения бездорожья. Оснащен карбюратором Nibbi PE30 и надежной 5-ступенчатой коробкой передач.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый</param>
+			<param name="Объем двигателя" unit="см3">300</param>
+			<param name="Мощность" unit="л.с.">21.76</param>
+			<param name="Количество цилиндров">1</param>
+			<param name="Охлаждение">Воздушное</param>
+			<param name="Система подачи топлива">Карбюратор Nibbi PE30</param>
+			<param name="Запуск двигателя">Электростартер + кикстартер</param>
+			<param name="Зажигание">Электронное (C.D.I)</param>
+			<param name="Коробка передач">Механика (5-ступенчатая)</param>
+			<param name="Главная передача">Цепь 520</param>
+			<param name="Передняя подвеска">Гидравлическая (не регулируемая)</param>
+			<param name="Задняя подвеска">Гидравлическая (регулировка преднатяга)</param>
+			<param name="Тормоза передние">Гидравлические дисковые</param>
+			<param name="Тормоза задние">Гидравлические дисковые</param>
+			<param name="Колеса передние">80/100-21"</param>
+			<param name="Колеса задние">100/90-18"</param>
+			<param name="Колесные диски">Алюминиевые</param>
+			<param name="Вес" unit="кг">111</param>
+			<param name="Объем бака" unit="л">5.5</param>
+			<param name="Высота по седлу" unit="мм">960</param>
+			<param name="Колесная база" unit="мм">1410</param>
+			<param name="Клиренс" unit="мм">320</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="503058990922">
+			<name>Мотоцикл Avantis A3 HSQ PR300</name>
+			<vendor>Avantis</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/503058990922-avantis-a3-hsq-pr300</url>
+			<price>178400.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>896432000602</categoryId>
+			<set-ids>s3</set-ids>
+			<picture>https://static.tildacdn.com/stor3130-3463-4263-b461-353765666435/a4f2f54ee32970a58c463ce3859b3a9c.png</picture>
+			<description><![CDATA[Надежный эндуро мотоцикл Avantis A3 HSQ PR300 с увеличенным до 9 литров топливным баком. Идеален для продолжительных маршрутов.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый</param>
+			<param name="Объем двигателя" unit="см3">300</param>
+			<param name="Мощность" unit="л.с.">21.76</param>
+			<param name="Количество цилиндров">1</param>
+			<param name="Охлаждение">Воздушное</param>
+			<param name="Система подачи топлива">Карбюратор Nibbi PE30</param>
+			<param name="Запуск двигателя">Электростартер + кикстартер</param>
+			<param name="Зажигание">Электронное (C.D.I)</param>
+			<param name="Коробка передач">Механика (5-ступенчатая)</param>
+			<param name="Главная передача">Цепь 520</param>
+			<param name="Передняя подвеска">Гидравлическая (не регулируемая)</param>
+			<param name="Задняя подвеска">Гидравлическая (регулировка преднатяга)</param>
+			<param name="Тормоза передние">Гидравлические дисковые</param>
+			<param name="Тормоза задние">Гидравлические дисковые</param>
+			<param name="Колеса передние">80/100-21"</param>
+			<param name="Колеса задние">100/90-18"</param>
+			<param name="Ступицы">Алюминиевые</param>
+			<param name="Вес" unit="кг">111</param>
+			<param name="Объем бака" unit="л">9</param>
+			<param name="Высота по седлу" unit="мм">960</param>
+			<param name="Колесная база" unit="мм">1410</param>
+			<param name="Клиренс" unit="мм">320</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="666718026712">
+			<name>Мотоцикл Avantis A2 Lux PR300 (с ПТС)</name>
+			<vendor>Avantis</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/666718026712-avantis-a2-lux-pr300-pts-</url>
+			<price>188900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>896432000602</categoryId>
+			<set-ids>s3</set-ids>
+			<picture>https://static.tildacdn.com/stor3563-6634-4466-b761-343933636435/e137ca614db3d29ea74749f4a55ec27a.png</picture>
+			<description><![CDATA[Мотоцикл Avantis A2 Lux PR300 с ПТС для дорог общего пользования. Оснащен LED-фарой, поворотниками и регулируемой подвеской.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый</param>
+			<param name="Объем двигателя" unit="см3">300</param>
+			<param name="Мощность" unit="л.с.">22</param>
+			<param name="Количество цилиндров">1</param>
+			<param name="Охлаждение">Воздушное</param>
+			<param name="Система подачи топлива">Карбюратор Nibbi PE30</param>
+			<param name="Запуск двигателя">Электростартер + кикстартер</param>
+			<param name="Коробка передач">Механика (5-ступенчатая)</param>
+			<param name="Главная передача">Цепь Choho 520 H</param>
+			<param name="Передняя подвеска">Регулируемые амортизаторы</param>
+			<param name="Задняя подвеска">Регулируемые амортизаторы</param>
+			<param name="Тормоза передние">Дисковые гидравлические</param>
+			<param name="Тормоза задние">Дисковые гидравлические</param>
+			<param name="Колеса передние">80/100-21"</param>
+			<param name="Колеса задние">120/90-18"</param>
+			<param name="Вес" unit="кг">120</param>
+			<param name="Объем бака" unit="л">5.5</param>
+			<param name="Высота по седлу" unit="мм">920</param>
+			<param name="Колесная база" unit="мм">1390</param>
+			<param name="Клиренс" unit="мм">340</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="774566250612">
+			<name>Мотоцикл Avantis A2 K19 PR300 (с ПТС)</name>
+			<vendor>Avantis</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/774566250612-avantis-a2-k19-pr300-pts-</url>
+			<price>178400.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>896432000602</categoryId>
+			<set-ids>s3</set-ids>
+			<picture>https://static.tildacdn.com/stor6530-6333-4939-b433-393334393332/87564bf9e1ae33be0ed1962a02de2fe5.png</picture>
+			<description><![CDATA[Полноценный эндуро Avantis A2 K19 PR300 с ПТС. Оборудован всем необходимым для езды по городу и легкому бездорожью.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый</param>
+			<param name="Объем двигателя" unit="см3">300</param>
+			<param name="Мощность" unit="л.с.">22</param>
+			<param name="Охлаждение">Воздушное</param>
+			<param name="Система подачи топлива">Карбюратор Nibbi PE30</param>
+			<param name="Запуск двигателя">Электростартер + кикстартер</param>
+			<param name="Коробка передач">Механика (5-ступенчатая)</param>
+			<param name="Главная передача">Цепь Choho 520 H</param>
+			<param name="Передняя подвеска">Нерегулируемые амортизаторы</param>
+			<param name="Задняя подвеска">Регулируемые амортизаторы</param>
+			<param name="Колеса передние">80/100-21"</param>
+			<param name="Колеса задние">120/90-18"</param>
+			<param name="Вес" unit="кг">118</param>
+			<param name="Объем бака" unit="л">5.5</param>
+			<param name="Высота по седлу" unit="мм">920</param>
+			<param name="Колесная база" unit="мм">1390</param>
+			<param name="Клиренс" unit="мм">340</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="220532854852">
+			<name>Мотоцикл Avantis CRF 250 Lux 2025 (с ПТС)</name>
+			<vendor>Avantis</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/220532854852-avantis-crf-250-lux-2025-pts-</url>
+			<price>205400.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>896432000602</categoryId>
+			<set-ids>s3</set-ids>
+			<picture>https://static.tildacdn.com/stor3634-3765-4634-b836-643434623030/38f536b12a779f836648cd964dc0a969.png</picture>
+			<description><![CDATA[Обновленная версия 2025 года Avantis CRF 250 Lux с ПТС. Оснащена 6-ступенчатой коробкой передач и вилкой перевернутого типа.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый</param>
+			<param name="Объем двигателя" unit="см3">300</param>
+			<param name="Мощность" unit="л.с.">26</param>
+			<param name="Охлаждение">Воздушное</param>
+			<param name="Система подачи топлива">Карбюратор Nibbi PE30</param>
+			<param name="Запуск двигателя">Электростартер</param>
+			<param name="Коробка передач">Механика (6-ступенчатая)</param>
+			<param name="Главная передача">Цепь 520</param>
+			<param name="Передняя подвеска">Телескопическая вилка (перевернутого типа, регулируемая)</param>
+			<param name="Задняя подвеска">Маятниковая с моноамортизатором (480 мм)</param>
+			<param name="Колеса передние">80/100-21"</param>
+			<param name="Колеса задние">110/100-18"</param>
+			<param name="Вес" unit="кг">127</param>
+			<param name="Объем бака" unit="л">7</param>
+			<param name="Высота по седлу" unit="мм">870</param>
+			<param name="Колесная база" unit="мм">1460</param>
+			<param name="Клиренс" unit="мм">300</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="658354466382">
+			<name>Мотоцикл Avantis MT300 GS (с ПТС)</name>
+			<vendor>Avantis</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/658354466382-avantis-mt300-gs-pts-</url>
+			<price>216200.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>896432000602</categoryId>
+			<set-ids>s3</set-ids>
+			<picture>https://static.tildacdn.com/stor3762-3934-4534-a263-343961376436/0d513ab1dd2ac0f1c40da94df4630cc6.jpg</picture>
+			<description><![CDATA[Мотоцикл Avantis MT300 GS с ПТС и большим баком на 14 литров для долгих поездок. Мощность 21,76 л.с.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый</param>
+			<param name="Объем двигателя" unit="см3">271</param>
+			<param name="Мощность" unit="л.с.">21.76</param>
+			<param name="Охлаждение">Воздушное</param>
+			<param name="Коробка передач">Механика (5-ступенчатая)</param>
+			<param name="Главная передача">Цепь</param>
+			<param name="Задняя подвеска">Регулируемая</param>
+			<param name="Колеса передние">21"</param>
+			<param name="Колеса задние">18"</param>
+			<param name="Вес" unit="кг">139.2</param>
+			<param name="Объем бака" unit="л">14</param>
+			<param name="Высота по седлу" unit="мм">880</param>
+			<param name="Клиренс" unit="мм">300</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="954033130342">
+			<name>Питбайк Avantis H15-E Lux (17/14)</name>
+			<vendor>Avantis</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/954033130342-pitbaik-avantis-h15-e-lux-1714</url>
+			<price>104900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>896432000602</categoryId>
+			<set-ids>s3</set-ids>
+			<picture>https://static.tildacdn.com/stor3965-3439-4335-b561-613238616334/3003923434d67639f0e3cfb6f84b1863.png</picture>
+			<description><![CDATA[Питбайк Avantis H15-E Lux на колесах 17/14. Регулируемая подвеска SX и карбюратор Nibbi Racing. Легкий и маневренный.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый</param>
+			<param name="Объем двигателя" unit="см3">150</param>
+			<param name="Мощность" unit="л.с.">13</param>
+			<param name="Система подачи топлива">Карбюратор Nibbi Racing РЕ-22</param>
+			<param name="Запуск двигателя">Электростартер + кикстартер</param>
+			<param name="Коробка передач">Механика (4-ступенчатая)</param>
+			<param name="Передняя подвеска">Регулируемая вилка (сжатие и отбой)</param>
+			<param name="Задняя подвеска">Амортизатор (преднатяг и отбой)</param>
+			<param name="Размер колес">17/14</param>
+			<param name="Вес" unit="кг">82</param>
+			<param name="Объем бака" unit="л">6.5</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="825352615392">
+			<name>Питбайк Avantis RX 125E Lux (17/14)</name>
+			<vendor>Avantis</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/825352615392-pitbaik-avantis-rx-125e-lux-1714</url>
+			<price>96400.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>896432000602</categoryId>
+			<set-ids>s3</set-ids>
+			<picture>https://static.tildacdn.com/stor3065-6533-4362-a462-613462386439/7f378a94e9f3c53b40ffbb714c2bf3d2.png</picture>
+			<description><![CDATA[Питбайк Avantis RX 125E Lux. Двигатель YX 125 см³, фара и дополнительная LED-балка. Идеален для новичков.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый</param>
+			<param name="Объем двигателя" unit="см3">125</param>
+			<param name="Мощность" unit="л.с.">9</param>
+			<param name="Охлаждение">Воздушное</param>
+			<param name="Система подачи топлива">Карбюратор NIBBI PE19</param>
+			<param name="Запуск двигателя">Электростартер + кикстартер</param>
+			<param name="Коробка передач">Механика (4-ступенчатая)</param>
+			<param name="Главная передача">Цепь</param>
+			<param name="Передняя подвеска">Телескопическая вилка (перевернутого типа)</param>
+			<param name="Задняя подвеска">Маятниковая с моноамортизатором</param>
+			<param name="Размер колес">17/14</param>
+			<param name="Вес" unit="кг">81</param>
+			<param name="Объем бака" unit="л">6</param>
+			<param name="Высота по седлу" unit="мм">840</param>
+			<param name="Колесная база" unit="мм">1220</param>
+			<param name="Клиренс" unit="мм">340</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="851487470802">
+			<name>Питбайк Avantis RX 125E Premium (17/14)</name>
+			<vendor>Avantis</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/851487470802-pitbaik-avantis-rx-125e-premium-1714</url>
+			<price>99400.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>896432000602</categoryId>
+			<set-ids>s3</set-ids>
+			<picture>https://static.tildacdn.com/stor3036-6435-4362-b434-636530336162/11f994140da58661726649c1474bb2cb.png</picture>
+			<description><![CDATA[Премиум версия питбайка Avantis RX 125E на колесах 17/14. Регулируемая задняя подвеска, алюминиевый руль Fatbar, защита рук и двигателя.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый</param>
+			<param name="Объем двигателя" unit="см3">125</param>
+			<param name="Мощность" unit="л.с.">9</param>
+			<param name="Охлаждение">Воздушное</param>
+			<param name="Система подачи топлива">Карбюратор NIBBI PE19</param>
+			<param name="Запуск двигателя">Электростартер + кикстартер</param>
+			<param name="Коробка передач">Механика (4-ступенчатая)</param>
+			<param name="Главная передача">Цепь</param>
+			<param name="Передняя подвеска">Телескопическая вилка</param>
+			<param name="Задняя подвеска">Маятниковая с моноамортизатором (регулируемая)</param>
+			<param name="Размер колес">17/14</param>
+			<param name="Вес" unit="кг">81</param>
+			<param name="Объем бака" unit="л">6</param>
+			<param name="Высота по седлу" unit="мм">840</param>
+			<param name="Колесная база" unit="мм">1220</param>
+			<param name="Клиренс" unit="мм">340</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		</offers>
+	</shop>
+</yml_catalog>
