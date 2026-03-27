@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-03-27 17:16">
+	<shop>
+		<name>Зона Эндуро</name>
+		<company>ЗОНА ЭНДУРО</company>
+		<url>https://endurozone.ru</url>
+		<platform>Tilda Publishing</platform>
+		<version>1.0</version>
+		<currencies>
+			<currency id="RUB" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="13">Мототранспорт</category>
+			<category id="142" parentId="13">Квадроциклы</category>
+		</categories>
+		<sets>
+			<set id="s2">
+				<name>Каталог квадроциклов Sharmax</name>
+				<url>https://endurozone.ru/catalog?tfc_sort%5B1770014951%5D=price:asc&amp;tfc_storepartuid%5B1770014951%5D&tfc_storepartuid%5B1770014951%5D=Квадроциклы/@/SHARMAX&tfc_div=:::</url>
+			</set>
+		</sets>
+		<offers>
+		<offer id="969016666032">
+			<name>Квадроцикл Sharmax 180 CROSS</name>
+			<vendor>Sharmax</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/969016666032-sharmax-180-cross</url>
+			<price>159900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>142</categoryId>
+			<set-ids>s2</set-ids>
+			<picture>https://static.tildacdn.com/stor3162-6261-4265-b137-623065383739/69c0e97e62f52d557bddea48cf4d8f03.png</picture>
+			<picture>https://static.tildacdn.com/stor3430-3066-4330-b830-623431306631/ae64a2cf75577498cf60a22d14d998af.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3830-6537-4638-a164-326661326236/e120a39e521307d74496099cce1d0182.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3365-6331-4932-b235-356430366364/f0d5764dc9b7e4328a4b60e02230c8d7.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6435-6565-4535-b933-316537633535/f7965915bf382d8592c7e12cf9046e9f.jpg</picture>
+			<description><![CDATA[Бензиновый квадроцикл Sharmax 180 CROSS с задним приводом и автоматической коробкой передач (CVT). Подходит для активного отдыха.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>false</pickup>
+			<store>false</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый</param>
+			<param name="Объем двигателя" unit="см3">125</param>
+			<param name="Мощность" unit="л.с.">15</param>
+			<param name="Трансмиссия">Вариатор</param>
+			<param name="Охлаждение">Воздушное</param>
+			<param name="Привод">Задний</param>
+			<param name="Вес" unit="кг">85</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="493309172812">
+			<name>Квадроцикл Sharmax 180 RX Cross</name>
+			<vendor>Sharmax</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/493309172812-sharmax-180-rx-cross</url>
+			<price>169900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>142</categoryId>
+			<set-ids>s2</set-ids>
+			<picture>https://static.tildacdn.com/stor3538-3032-4765-b939-626338363664/d359ce760483390f3b90a729cedadbee.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6639-6462-4265-a430-643832366561/85724b7763cf2b660ab897b91e80a80a.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6535-3935-4163-b238-613463383063/8016d4becc410cf676a3f18ae97e639b.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3266-6363-4433-a332-353031353066/efb610f64518db1e91c8138164da034c.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3338-6636-4638-b364-633538363835/7cf9c9c3fbfbba6656defbd6c88150ea.jpg</picture>
+
+			<description><![CDATA[
+				Квадроцикл Sharmax 180 RX Cross — идеальный выбор для активного отдыха и обучения базовым навыкам управления внедорожной техникой. 
+				Ключевая особенность модели — сверхпрочная рама из хромомолибденового сплава, которая обеспечивает легкость и долговечность. 
+				Двигатель объемом 150 куб. см мощностью 16 л.с. в сочетании с карбюраторной системой подачи топлива и электростартером гарантирует уверенный запуск и стабильную работу в любых условиях. 
+				За комфорт отвечают независимая передняя подвеска с ходом 120 мм и маятниковая задняя подвеска с моноамортизатором (ход 180 мм). 
+				Квадроцикл оснащен надежной тормозной системой: барабанными передними и дисковыми задними тормозами. 
+				Компактные габариты, клиренс 150 мм и вес всего 80 кг делают его максимально маневренным.
+			]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый</param>
+			<param name="Объем двигателя" unit="см3">150</param>
+			<param name="Мощность" unit="л.с.">16</param>
+			<param name="Охлаждение">Воздушное</param>
+			<param name="Система подачи топлива">Карбюратор</param>
+			<param name="Система запуска">Электростартер</param>
+			<param name="Трансмиссия">Вариатор</param>
+			<param name="Привод">Задний (Цепь)</param>
+			<param name="Объем бака" unit="л">3.5</param>
+			<param name="Материал рамы">Хромомолибденовый сплав</param>
+			<param name="Передняя подвеска">Независимая (ход 120 мм)</param>
+			<param name="Задняя подвеска">Маятниковая (ход 180 мм)</param>
+			<param name="Тормоза передние">Барабанные</param>
+			<param name="Тормоза задние">Дисковые</param>
+			<param name="Колеса передние">19x7-8</param>
+			<param name="Колеса задние">19x9.5-8</param>
+			<param name="Вес" unit="кг">80</param>
+			<param name="Грузоподъемность" unit="кг">150</param>
+			<param name="Колесная база" unit="мм">1100</param>
+			<param name="Высота по седлу" unit="мм">770</param>
+			<param name="Клиренс" unit="мм">150</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="967023283512">
+			<name>Квадроцикл Sharmax 280 RX Activator</name>
+			<vendor>Sharmax</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/967023283512-sharmax-280-rx-activator</url>
+			<price>289900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>142</categoryId>
+			<set-ids>s2</set-ids>
+			<picture>https://static.tildacdn.com/stor3833-6464-4561-b165-643230313462/54b10dca1fb29d3d656ad48e1c73dd0a.png</picture>
+			<description><![CDATA[
+				Sharmax 280 RX Activator — это мощный утилитарный квадроцикл, созданный для преодоления серьезного бездорожья. 
+				Сердцем машины является бензиновый двигатель объемом 223 куб. см с впечатляющей мощностью 23 л.с. и степенью сжатия 9.9:1. 
+				Модель выделяется отличной геометрической проходимостью: огромный клиренс 290 мм и энергоемкая подвеска с газомасляными амортизаторами позволяют уверенно проходить глубокие колеи и неровности. 
+				Ход передней подвески составляет 180 мм, задней — 210 мм. 
+				Стальная усиленная рама рассчитана на высокие нагрузки и грузоподъемность до 220 кг. 
+				Для удобства управления установлена вариаторная трансмиссия, а запуск двигателя осуществляется простым нажатием кнопки электростартера. 
+				Колеса диаметром 10 дюймов обеспечивают отличное зацепление с грунтом.
+			]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый</param>
+			<param name="Объем двигателя" unit="см3">223</param>
+			<param name="Мощность" unit="л.с.">23</param>
+			<param name="Степень сжатия">9.9:1</param>
+			<param name="Охлаждение">Воздушное</param>
+			<param name="Система подачи топлива">Карбюратор</param>
+			<param name="Трансмиссия">Вариатор</param>
+			<param name="Привод">Задний (Цепь)</param>
+			<param name="Объем бака" unit="л">5</param>
+			<param name="Материал рамы">Сталь</param>
+			<param name="Передняя подвеска">Независимая (ход 180 мм)</param>
+			<param name="Задняя подвеска">Маятниковая (ход 210 мм)</param>
+			<param name="Амортизаторы">Газомасляные</param>
+			<param name="Колеса передние">23x7-10</param>
+			<param name="Колеса задние">22x10-10</param>
+			<param name="Вес" unit="кг">190</param>
+			<param name="Грузоподъемность" unit="кг">220</param>
+			<param name="Колесная база" unit="мм">1200</param>
+			<param name="Высота по седлу" unit="мм">810</param>
+			<param name="Клиренс" unit="мм">290</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="264597415162">
+			<name>Квадроцикл Sharmax Hummer 320 RX</name>
+			<vendor>Sharmax</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/264597415162-sharmax-hummer-320-rx</url>
+			<price>369900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>142</categoryId>
+			<set-ids>s2</set-ids>
+			<picture>https://static.tildacdn.com/stor6238-6633-4866-b561-356136316364/5aa93c235129d22e8fe31c51b5ae6c23.png</picture>
+			<description><![CDATA[Среднекубатурный утилитарный квадроцикл Sharmax Hummer 320 RX для рыбалки, охоты и туризма. Оснащен карбюратором Mikuni (Япония) и вариатором Malossi (Италия).]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>false</pickup>
+			<store>false</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый</param>
+			<param name="Объем двигателя" unit="см3">296</param>
+			<param name="Мощность" unit="л.с.">23</param>
+			<param name="Трансмиссия">Вариатор</param>
+			<param name="Привод">Задний</param>
+			<param name="Вес" unit="кг">230</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="825815289472">
+			<name>Квадроцикл Sharmax 420 Force Cyber</name>
+			<vendor>Sharmax</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/825815289472-sharmax-420-force-cyber</url>
+			<price>649900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>142</categoryId>
+			<set-ids>s2</set-ids>
+			<picture>https://static.tildacdn.com/stor3665-3235-4962-b139-393233336662/218ccd6c55153202d4c42ef80f6872c6.png</picture>
+			<description><![CDATA[Утилитарно-туристический квадроцикл Sharmax 420 Force Cyber с подключаемым полным приводом (2WD / 4WD) и инжектором (EFI) производства Bosch. В комплекте лебедка и пассажирский модуль.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>false</pickup>
+			<store>false</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый</param>
+			<param name="Объем двигателя" unit="см3">287</param>
+			<param name="Мощность" unit="л.с.">27</param>
+			<param name="Трансмиссия">Вариатор</param>
+			<param name="Привод">Полный</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="958636208892">
+			<name>Квадроцикл Sharmax 650 Force</name>
+			<vendor>Sharmax</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/958636208892-sharmax-650-force</url>
+			<price>899900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>142</categoryId>
+			<set-ids>s2</set-ids>
+			<picture>https://static.tildacdn.com/stor6466-3565-4666-b531-646663386630/6134faf0c3ddbd75cb311f12aede1b96.png</picture>
+			<description><![CDATA[Мощный двухместный квадроцикл Sharmax 650 Force. Оснащен инжектором DELPHI, подключаемым полным приводом (2WD / 4WD), электроусилителем руля (EPS) и лебедкой с тяговым усилием 3500 lbs.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>false</pickup>
+			<store>false</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый</param>
+			<param name="Объем двигателя" unit="см3">499</param>
+			<param name="Мощность" unit="л.с.">44</param>
+			<param name="Трансмиссия">Вариатор</param>
+			<param name="Привод">Полный</param>
+			<param name="Охлаждение">Жидкостное</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="342630032632">
+			<name>Квадроцикл Sharmax 720 Force RAGE</name>
+			<vendor>Sharmax</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/342630032632-sharmax-720-force-rage</url>
+			<price>949900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>142</categoryId>
+			<set-ids>s2</set-ids>
+			<picture>https://static.tildacdn.com/stor3834-3466-4763-a164-323232633131/fdf08a3217ecd053c17c999a90d30394.png</picture>
+			<description><![CDATA[Высокомощный утилитарный квадроцикл Sharmax 720 Force RAGE без ПСМ. Жидкостное охлаждение, полный привод (4WD) через карданный вал, независимая подвеска на двойных А-образных рычагах. Лебедка в комплекте.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>false</pickup>
+			<store>false</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый</param>
+			<param name="Объем двигателя" unit="см3">599</param>
+			<param name="Мощность" unit="л.с.">52</param>
+			<param name="Трансмиссия">Вариатор</param>
+			<param name="Привод">Полный</param>
+			<param name="Охлаждение">Жидкостное</param>
+			<param name="Вес" unit="кг">400</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="448345798512">
+			<name>Квадроцикл Sharmax 720 Force RAGE (с ПСМ)</name>
+			<vendor>Sharmax</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/448345798512-sharmax-720-force-rage-s-psm</url>
+			<price>1089900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>142</categoryId>
+			<set-ids>s2</set-ids>
+			<picture>https://static.tildacdn.com/stor3834-3466-4763-a164-323232633131/fdf08a3217ecd053c17c999a90d30394.png</picture>
+			<description><![CDATA[Высокомощный утилитарный квадроцикл Sharmax 720 Force RAGE с электронным паспортом самоходной машины (ПСМ). Жидкостное охлаждение, полный привод (4WD), независимая подвеска и лебедка.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>false</pickup>
+			<store>false</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый</param>
+			<param name="Объем двигателя" unit="см3">599</param>
+			<param name="Мощность" unit="л.с.">52</param>
+			<param name="Трансмиссия">Вариатор</param>
+			<param name="Привод">Полный</param>
+			<param name="Охлаждение">Жидкостное</param>
+			<param name="Вес" unit="кг">400</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="945779734872">
+			<name>Квадроцикл Sharmax 1100 Force by GEELY</name>
+			<vendor>Sharmax</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/945779734872-sharmax-1100-force-by-geely</url>
+			<price>1249900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>142</categoryId>
+			<set-ids>s2</set-ids>
+			<picture>https://static.tildacdn.com/stor6262-6461-4832-a165-336636306235/18997e0e717fe23d4d98feecc7182d05.png</picture>
+			<description><![CDATA[Флагманский квадроцикл Sharmax 1100 Force by GEELY (без ПСМ). V-образный двигатель (92.5 л.с.), инжектор BOSCH EFI, подключаемый полный привод, электроусилитель руля (EPS) и диски с бэдлоками.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>false</pickup>
+			<store>false</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый, V-Twin</param>
+			<param name="Объем двигателя" unit="см3">976</param>
+			<param name="Мощность" unit="л.с.">92.5</param>
+			<param name="Трансмиссия">Вариатор</param>
+			<param name="Привод">Полный</param>
+			<param name="Охлаждение">Жидкостное</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="498546256232">
+			<name>Квадроцикл Sharmax 1100 Force by GEELY (с ПСМ)</name>
+			<vendor>Sharmax</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/498546256232-sharmax-1100-force-by-geely-s-psm</url>
+			<price>1599900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>142</categoryId>
+			<set-ids>s2</set-ids>
+			<picture>https://static.tildacdn.com/stor6262-6461-4832-a165-336636306235/18997e0e717fe23d4d98feecc7182d05.png</picture>
+			<description><![CDATA[Флагманский квадроцикл Sharmax 1100 Force by GEELY (с электронным ПСМ). V-образный двигатель (92.5 л.с.), инжектор BOSCH EFI, подключаемый полный привод, электроусилитель руля (EPS) и диски с бэдлоками.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>false</pickup>
+			<store>false</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый, V-Twin</param>
+			<param name="Объем двигателя" unit="см3">976</param>
+			<param name="Мощность" unit="л.с.">92.5</param>
+			<param name="Трансмиссия">Вариатор</param>
+			<param name="Привод">Полный</param>
+			<param name="Охлаждение">Жидкостное</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="784344456712">
+			<name>Квадроцикл Sharmax Force 1100 LTD EFI EPS by Geely</name>
+			<vendor>Sharmax</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/784344456712-sharmax-force-1100-ltd-efi-eps-by-geely</url>
+			<price>1389900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>142</categoryId>
+			<set-ids>s2</set-ids>
+			<picture>https://static.tildacdn.com/stor6663-6536-4132-b463-656461343134/a575aa4ff3335f1581e9291fd0739027.png</picture>
+			<description><![CDATA[Лимитированная версия квадроцикла Sharmax Force 1100 LTD (без ПСМ) производства завода QJ Motor. Оснащен газомасляными амортизаторами YIT, инжектором BOSCH EFI и лебедкой 3500 lbs.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>false</pickup>
+			<store>false</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый, V-Twin</param>
+			<param name="Объем двигателя" unit="см3">976</param>
+			<param name="Мощность" unit="л.с.">92.5</param>
+			<param name="Трансмиссия">Вариатор</param>
+			<param name="Привод">Полный</param>
+			<param name="Охлаждение">Жидкостное</param>
+			<param name="Вес" unit="кг">445</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="481255861932">
+			<name>Квадроцикл Sharmax Force 1100 LTD EFI EPS by Geely (с ПСМ)</name>
+			<vendor>Sharmax</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/481255861932-sharmax-force-1100-ltd-efi-eps-by-geely</url>
+			<price>1649900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>142</categoryId>
+			<set-ids>s2</set-ids>
+			<picture>https://static.tildacdn.com/stor6663-6536-4132-b463-656461343134/a575aa4ff3335f1581e9291fd0739027.png</picture>
+			<description><![CDATA[Лимитированная версия квадроцикла Sharmax Force 1100 LTD (с ПСМ) производства завода QJ Motor. Оснащен газомасляными амортизаторами YIT, инжектором BOSCH EFI и лебедкой 3500 lbs.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>false</pickup>
+			<store>false</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый, V-Twin</param>
+			<param name="Объем двигателя" unit="см3">976</param>
+			<param name="Мощность" unit="л.с.">92.5</param>
+			<param name="Трансмиссия">Вариатор</param>
+			<param name="Привод">Полный</param>
+			<param name="Охлаждение">Жидкостное</param>
+			<param name="Вес" unit="кг">445</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="814913127482">
+			<name>Квадроцикл Sharmax Hummer 320 RX LTD</name>
+			<vendor>Sharmax</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/814913127482-sharmax-hummer-320-rx-ltd</url>
+			<price>379900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>142</categoryId>
+			<set-ids>s2</set-ids>
+			<picture>https://static.tildacdn.com/stor6633-3735-4363-b530-373563306531/32cfb6d3dada52a3bead14a60885bcf0.png</picture>
+			<description><![CDATA[Среднекубатурный утилитарный квадроцикл Sharmax Hummer 320 RX LTD на усиленной раме из хромомолибденового сплава. Оснащен инжектором MIKUNI и вариатором Malossi (Италия).]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>false</pickup>
+			<store>false</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый</param>
+			<param name="Объем двигателя" unit="см3">296</param>
+			<param name="Мощность" unit="л.с.">23</param>
+			<param name="Трансмиссия">Вариатор</param>
+			<param name="Вес" unit="кг">230</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		<offer id="236976390382">
+			<name>Квадроцикл Sharmax Raizer Race Cup 250</name>
+			<vendor>Sharmax</vendor>
+			<url>https://endurozone.ru/catalog/tproduct/236976390382-sharmax-raizer-race-cup-250</url>
+			<price>259900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>142</categoryId>
+			<set-ids>s2</set-ids>
+			<picture>https://static.tildacdn.com/stor6135-3736-4564-a634-373433653634/1bba7ab12b90d2e5ef452afaaba062c4.png</picture>
+			<description><![CDATA[Спортивный квадроцикл Sharmax Raizer Race Cup 250 с балансировочным валом, карбюратором Mikuni VM28 и вариатором Malossi. Отличное решение для быстрых прохватов.]]></description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>false</pickup>
+			<store>false</store>
+			<param name="Конверсия">10</param>
+			<param name="Состояние">Не требует ремонта</param>
+			<param name="Пробег">0</param>
+			<param name="Топливо">Бензин</param>
+			<param name="Тип двигателя">Бензиновый</param>
+			<param name="Объем двигателя" unit="см3">200</param>
+			<param name="Мощность" unit="л.с.">21</param>
+			<param name="Трансмиссия">Вариатор</param>
+			<param name="Охлаждение">Воздушное</param>
+			<param name="Гарантия">Есть</param>
+		</offer>
+
+		</offers>
+	</shop>
+</yml_catalog>
