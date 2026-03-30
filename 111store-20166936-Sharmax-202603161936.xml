@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-30 23:32">
+<yml_catalog date="2026-03-30 23:49">
 	<shop>
 		<name>Зона Эндуро</name>
 		<company>ЗОНА ЭНДУРО</company>
@@ -76,6 +76,42 @@
         <name>Среднеразмерные эндуро</name>
         <url>https://endurozone.ru/catalog?tfc_sort%5B1770014951%5D=price:asc&amp;tfc_charact:10674922%5B1770014951%5D=Среднеразмерный&amp;tfc_div=:::</url>
     </set>
+			<set id="s17">
+        <name>Полноразмерные эндуро</name>
+        <url>https://endurozone.ru/catalog?tfc_sort%5B1770014951%5D=price:asc&amp;tfc_charact:10674922%5B1770014951%5D=Полноразмерный&amp;tfc_div=:::</url>
+    </set>
+    <set id="s18">
+        <name>Эндуро Avantis</name>
+        <url>https://endurozone.ru/catalog?tfc_sort%5B1770014951%5D=price:asc&amp;tfc_storepartuid%5B1770014951%5D=Эндуро+и+кроссовые+мотоциклы/@/Avantis&amp;tfc_div=:::</url>
+    </set>
+    <set id="s19">
+        <name>Эндуро XGZ</name>
+        <url>https://endurozone.ru/catalog?tfc_sort%5B1770014951%5D=price:asc&amp;tfc_storepartuid%5B1770014951%5D=Эндуро+и+кроссовые+мотоциклы/@/XGZ&amp;tfc_div=:::</url>
+    </set>
+    <set id="s20">
+        <name>Эндуро с двигателем NB300</name>
+        <url>https://endurozone.ru/catalog?tfc_sort%5B1770014951%5D=price:asc&amp;tfc_charact:10678192%5B1770014951%5D=174&amp;tfc_charact:10673502%5B1770014951%5D=Жидкостное&amp;tfc_div=:::</url>
+    </set>
+    <set id="s21">
+        <name>Эндуро с двигателем YBS300</name>
+        <url>https://endurozone.ru/catalog?tfc_sort%5B1770014951%5D=price:asc&amp;tfc_charact:10678192%5B1770014951%5D=176&amp;tfc_charact:10673502%5B1770014951%5D=Жидкостное:::Воздушное&amp;tfc_div=:::</url>
+    </set>
+    <set id="s22">
+        <name>Эндуро с двигателем PR300</name>
+        <url>https://endurozone.ru/catalog?tfc_sort%5B1770014951%5D=price:asc&amp;tfc_charact:10678192%5B1770014951%5D=175&amp;tfc_charact:10673502%5B1770014951%5D=Воздушное&amp;tfc_div=:::</url>
+    </set>
+    <set id="s23">
+        <name>Эндуро мотоциклы на 21/18 колесах</name>
+        <url>https://endurozone.ru/catalog?tfc_charact:10677802%5B1770014951%5D=21/18&amp;tfc_div=:::</url>
+    </set>
+    <set id="s24">
+        <name>Питбайки на 17/14 колесах</name>
+        <url>https://endurozone.ru/catalog?tfc_charact:10677802%5B1770014951%5D=17/14&amp;tfc_div=:::</url>
+    </set>
+    <set id="s25">
+        <name>Эндуро с электростартером</name>
+        <url>https://endurozone.ru/catalog?tfc_charact:10678082%5B1770014951%5D=Электростартер&amp;tfc_div=:::</url>
+    </set>
 		</sets>
 		<offers>
 		<offer id="968358129792">
@@ -98,7 +134,7 @@ Sharmax Sport 145<br /><br />Охлаждение - Воздушное<br />За
 			<price>109900.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>141</categoryId>
-			<set-ids>s1, s4</set-ids>
+			<set-ids>s1, s4, s25</set-ids>
 			<adult>false</adult>
 			<manufacturer_warranty>true</manufacturer_warranty>
 			<delivery>true</delivery>
