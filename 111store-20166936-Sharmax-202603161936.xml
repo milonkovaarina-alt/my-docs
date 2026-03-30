@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-16T19:36:09+03:00">
+<yml_catalog date="2026-03-30 23:09">
 	<shop>
 		<name>Зона Эндуро</name>
 		<company>ЗОНА ЭНДУРО</company>
 		<url>https://endurozone.ru</url>
-		<platform>Tilda Publishing</platform>
-		<version>1.0</version>
 		<currencies>
 			<currency id="RUR" rate="1"/>
 		</currencies>
@@ -18,6 +16,18 @@
 				<name>Каталог мотоциклов Sharmax</name>
 				<url>https://endurozone.ru/catalog?tfc_sort%5B1770014951%5D=price:asc&amp;tfc_storepartuid%5B1770014951%5D=Эндуро+и+кроссовые+мотоциклы/@/Sharmax&amp;tfc_div=:::</url>
 			</set>
+			<set id="s2">
+        <name>Эндуро 300 кубов</name>
+        <url>https://endurozone.ru/catalog?tfc_sort%5B1770014951%5D=price:asc&amp;tfc_charact:10672962%5B1770014951%5D=300+см³&amp;tfc_div=:::</url>
+				</set>
+            <set id="s3">
+        <name>Эндуро 250 кубов</name>
+        <url>https://endurozone.ru/catalog?tfc_sort%5B1770014951%5D=price:asc&amp;tfc_charact:10672962%5B1770014951%5D=250+см³&amp;tfc_div=:::</url>
+    </set>
+			<set id="s4">
+        <name>Питбайки 125 кубов</name>
+        <url>https://endurozone.ru/catalog?tfc_sort%5B1770014951%5D=price:asc&amp;tfc_charact:10672962%5B1770014951%5D=125+см³&amp;tfc_div=:::</url>
+    </set>
 		</sets>
 		<offers>
 		<offer id="968358129792">
@@ -40,7 +50,7 @@ Sharmax Sport 145<br /><br />Охлаждение - Воздушное<br />За
 			<price>109900.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>141</categoryId>
-			<set-ids>s1</set-ids>
+			<set-ids>s1, s4</set-ids>
 			<adult>false</adult>
 			<manufacturer_warranty>true</manufacturer_warranty>
 			<delivery>true</delivery>
