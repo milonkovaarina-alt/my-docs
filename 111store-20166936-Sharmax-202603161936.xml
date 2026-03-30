@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-30 23:09">
+<yml_catalog date="2026-03-30 23:32">
 	<shop>
 		<name>Зона Эндуро</name>
 		<company>ЗОНА ЭНДУРО</company>
@@ -27,6 +27,54 @@
 			<set id="s4">
         <name>Питбайки 125 кубов</name>
         <url>https://endurozone.ru/catalog?tfc_sort%5B1770014951%5D=price:asc&amp;tfc_charact:10672962%5B1770014951%5D=125+см³&amp;tfc_div=:::</url>
+    </set>
+			<set id="s5">
+        <name>Питбайки 140 кубов</name>
+        <url>https://endurozone.ru/catalog?tfc_sort%5B1770014951%5D=price:asc&amp;tfc_charact:10672962%5B1770014951%5D=140+см³&amp;tfc_div=:::</url>
+    </set>
+			<set id="s6">
+        <name>Эндуро с водяным охлаждением</name>
+        <url>https://endurozone.ru/catalog?tfc_sort%5B1770014951%5D=price:asc&amp;tfc_charact:10673502%5B1770014951%5D=Жидкостное&amp;tfc_div=:::</url>
+    </set>
+			<set id="s7">
+        <name>Эндуро с воздушным охлаждением</name>
+        <url>https://endurozone.ru/catalog?tfc_sort%5B1770014951%5D=price:asc&amp;tfc_charact:10673502%5B1770014951%5D=Воздушное&amp;tfc_div=:::</url>
+    </set>
+			<set id="s8">
+        <name>Питбайки</name>
+        <url>https://endurozone.ru/catalog?tfc_sort%5B1770014951%5D=price:asc&amp;tfc_charact:10674922%5B1770014951%5D=Питбайк&amp;tfc_div=:::</url>
+    </set>
+    <set id="s9">
+        <name>Эндуро</name>
+        <url>https://endurozone.ru/catalog?tfc_sort%5B1770014951%5D=price:asc&amp;tfc_charact:10674922%5B1770014951%5D=Полноразмерный:::Среднеразмерный&amp;tfc_div=:::</url>
+    </set>
+    <set id="s10">
+        <name>Кроссовые мотоциклы</name>
+        <url>https://endurozone.ru/catalog?tfc_sort%5B1770014951%5D=price:asc&amp;tfc_storepartuid%5B1770014951%5D=Эндуро+и+кроссовые+мотоциклы&amp;tfc_div=:::</url>
+    </set>
+    <set id="s11">
+        <name>Эндуро с ПТС</name>
+        <url>https://endurozone.ru/catalog?tfc_sort%5B1770014951%5D=price:asc&amp;tfc_charact:10673452%5B1770014951%5D=с+ПТС&amp;tfc_div=:::</url>
+    </set>
+			<set id="s12">
+        <name>Эндуро спортинвентарь</name>
+        <url>https://endurozone.ru/catalog?tfc_sort%5B1770014951%5D=price:asc&amp;tfc_charact:10673452%5B1770014951%5D=Спортинвентарь&amp;tfc_div=:::</url>
+    </set>
+    <set id="s13">
+        <name>Эндуро с 174 мотором</name>
+        <url>https://endurozone.ru/catalog?tfc_sort%5B1770014951%5D=price:asc&amp;tfc_charact:10678192%5B1770014951%5D=174&amp;tfc_div=:::</url>
+    </set>
+    <set id="s14">
+        <name>Эндуро с 175 мотором</name>
+        <url>https://endurozone.ru/catalog?tfc_sort%5B1770014951%5D=price:asc&amp;tfc_charact:10678192%5B1770014951%5D=175&amp;tfc_div=:::</url>
+    </set>
+    <set id="s15">
+        <name>Эндуро с 176 мотором</name>
+        <url>https://endurozone.ru/catalog?tfc_sort%5B1770014951%5D=price:asc&amp;tfc_charact:10678192%5B1770014951%5D=176&amp;tfc_div=:::</url>
+    </set>
+    <set id="s16">
+        <name>Среднеразмерные эндуро</name>
+        <url>https://endurozone.ru/catalog?tfc_sort%5B1770014951%5D=price:asc&amp;tfc_charact:10674922%5B1770014951%5D=Среднеразмерный&amp;tfc_div=:::</url>
     </set>
 		</sets>
 		<offers>
