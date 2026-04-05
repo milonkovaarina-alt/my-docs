@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-05 10:54">
+<yml_catalog date="2026-04-05 12:17">
 	<shop>
 		<name>Зона Эндуро</name>
 		<company>ЗОНА ЭНДУРО</company>
@@ -1182,6 +1182,11 @@
 Снаряженная масса: 118 кг. Емкость бака: 8,8 л.
 ]]>
 </description>
+<picture>https://static.tildacdn.com/stor3330-6534-4164-b762-303565623562/c097626e5a910094657421f529c9f1a6.jpg</picture>
+<picture>https://static.tildacdn.com/stor6337-3435-4232-b534-393763316536/791bb79a0e0fa95bc5bed0f87a3b0873.jpg</picture>
+<picture>https://static.tildacdn.com/stor3936-3162-4130-b133-653261343963/8b45d691816b6a8b70605d3b84e81976.png</picture>
+<picture>https://static.tildacdn.com/stor3462-3530-4266-b863-326534643162/555f1de93b6b36239928f44384605942.png</picture>
+<url>https://endurozone.ru/catalog/tproduct/787078354622-xgz-g26-ybs300</url>
 				<price>249900.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>141</categoryId>
@@ -1203,7 +1208,7 @@
       <param name="Размер колес">21/18</param>
       <param name="Гарантия">Есть</param>
 				</offer>
-			<offer id="705274426962"type="vendor.model" available="true">
+			<offer id="705274426962" type="vendor.model" available="true">
     <typePrefix>Эндуро мотоцикл</typePrefix>
     <vendor>XGZ</vendor>
     <model>H26S YBS300</model>
@@ -1241,6 +1246,11 @@
 </ul>
 ]]>
 				</description>
+<picture>https://static.tildacdn.com/stor6136-3237-4738-a531-633763383863/52ef61994b728078afeca8e5e43e8f0d.jpg</picture>
+<picture>https://static.tildacdn.com/stor3235-3232-4738-a238-663639366234/189347010189d1abb7252fe68419070b.jpg</picture>
+<picture>https://static.tildacdn.com/stor6366-3331-4566-a362-383133616432/043d840f4a5227324535013a8be1e535.jpg</picture>
+<picture>https://static.tildacdn.com/stor6533-3432-4930-b263-656537316661/313304aa7dd818c39f35647566107560.jpg</picture>
+<url>https://endurozone.ru/catalog/tproduct/705274426962-xgz-h26s-ybs300</url>
 				<price>249900.00</price>
 			<currencyId>RUR</currencyId>
 			<categoryId>141</categoryId>
@@ -1259,6 +1269,245 @@
       <param name="Двигатель, л.с.">28.5</param>
       <param name="Тип охлаждения">Жидкостное</param>
             <param name="Система запуска">Электростартер</param>
+      <param name="Размер колес">21/18</param>
+      <param name="Гарантия">Есть</param>
+				</offer>
+			<offer id="220532854852" type="vendor.model" available="true">
+    <typePrefix>Эндуро мотоцикл</typePrefix>
+    <vendor>Avantis</vendor>
+    <model>CRF 250 Lux 2025 (ПТС)</model>
+				<description>
+					<![CDATA[
+<strong>Avantis CRF 250 Lux 2025</strong> это универсальный эндуро с ПТС, идеально подходящий как для сурового бездорожья, так и для легальных поездок по городским дорогам. Обновленная модель сочетает в себе выносливость классического эндуро и полноценное дорожное оснащение.
+<br /><br />
+<strong>Двигатель и трансмиссия:</strong>
+<ul>
+    <li>Тяговитый 4-тактный двигатель объемом 300 см³ (26 л.с.), обеспечивающий уверенный подхват на низких и средних оборотах.</li>
+    <li><strong>6-ступенчатая КПП:</strong> наличие шестой передачи позволяет комфортно передвигаться по трассе, снижая нагрузку на мотор и расход топлива.</li>
+    <li>Топливная система: карбюратор <strong>Nibbi PE30.</strong> </li>
+    <li>Охлаждение: воздушное, что упрощает конструкцию и делает байк более живучим в лесу.</li>
+</ul>
+<br />
+<strong>Подвеска и ходовая часть:</strong>
+<ul>
+    <li>Передняя подвеска: регулируемая телескопическая вилка перевернутого типа.</li>
+    <li>Задняя подвеска: маятниковая с моноамортизатором (480 мм), отлично отрабатывающая неровности рельефа.</li>
+    <li>Колеса 21/18 дюймов с зубастой резиной для максимальной проходимости.</li>
+    <li><strong>Армированные тормозные шланги</strong> спереди повышают эффективность и информативность торможения.</li>
+</ul>
+<br />
+<strong>Комплектация Lux (ПТС):</strong>
+<ul>
+    <li><strong>Полный пакет светотехники:</strong> яркая LED-фара, передние и задние поворотники, стоп-сигнал.</li>
+    <li>Дорожное оснащение: зеркала заднего вида и звуковой сигнал.</li>
+    <li>Удобная высота по седлу 870 мм и дорожный просвет 300 мм.</li>
+</ul>
+<br />
+Сухая масса: 127 кг. Объем бака: 7 л. Привод: Цепь 520.
+]]>
+				</description>
+<picture>https://static.tildacdn.com/stor3634-3765-4634-b836-643434623030/38f536b12a779f836648cd964dc0a969.png</picture>
+<picture>https://static.tildacdn.com/stor3137-6534-4665-a633-333861633039/c50efa33614ba322042b10ee41335a7e.png</picture>
+<picture>https://static.tildacdn.com/stor3431-3936-4763-b035-313962633233/12d01cc73bad0398b5d3124f7fa7ef82.png</picture>
+<picture>https://static.tildacdn.com/stor3063-3565-4761-b965-386333303065/8559da617bb6bd08731899a60f3c5539.png</picture>
+<url>https://endurozone.ru/catalog/tproduct/220532854852-avantis-crf-250-lux-2025-pts-</url>
+				<price>205400.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>141</categoryId>
+			<set-ids>s2, s7, s9, s10, s11, s17, s18, s23, s25</set-ids>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>false</pickup>
+			<store>false</store>
+				<param name="Конверсия">10</param>
+      <param name="Размещено дилером">true</param>
+      <param name="Пробег">0</param>
+      <param name="Топливо">Бензин</param>
+      <param name="Коробка передач">Механика</param>
+      <param name="Двигатель, литры">0.3</param>
+      <param name="Объем двигателя, см3">300</param>
+      <param name="Двигатель, л.с.">26</param>
+      <param name="Тип охлаждения">Воздушное</param>
+            <param name="Система запуска">Электростартер</param>
+      <param name="Размер колес">21/18</param>
+      <param name="Гарантия">Есть</param>
+				</offer>
+			<offer id="547734768132" type="vendor.model" available="true">
+    <typePrefix>Эндуро мотоцикл</typePrefix>
+    <vendor>Avantis</vendor>
+    <model>A2 HSQ CB300</model>
+				<description>
+					<![CDATA[
+<strong>Avantis A2 HSQ CB300</strong> это легкий, высокий и тяговитый эндуро, созданный для покорения лесных троп и умеренного бездорожья. Благодаря сочетанию проверенного двигателя CB300 и минимального веса, этот байк прощает ошибки новичкам и дарит драйв опытным райдерам.
+<br /><br />
+<strong>Двигатель и ходовые качества:</strong>
+<ul>
+    <li>Надежный 4-тактный двигатель объемом 300 см³ мощностью 21,76 л.с. - отличный баланс тяги и ресурса.</li>
+    <li>Система питания: производительный карбюратор <strong>Nibbi PE30</strong>, обеспечивающий стабильную работу в любых условиях.</li>
+    <li>Комбинированный запуск: электростартер для удобства и кикстартер для полной уверенности вдали от цивилизации.</li>
+    <li>Простая и надежная воздушная система охлаждения.</li>
+</ul>
+<br />
+<strong>Ходовая часть и эргономика:</strong>
+<ul>
+    <li><strong>Минимальный вес:</strong> сухая масса всего 111 кг делает байк невероятно послушным и легким в управлении.</li>
+    <li><strong>Геометрия для профи:</strong> внушительная высота по седлу 960 мм и клиренс 320 мм позволяют уверенно преодолевать бревна и глубокие колеи.</li>
+    <li>Алюминиевые колесные диски 21/18 снижают неподрессоренные массы и повышают прочность колес.</li>
+    <li>Задняя подвеска с регулировкой преднатяга пружины для настройки под вес райдера.</li>
+</ul>
+<br />
+<strong>Трансмиссия и оснащение:</strong>
+<ul>
+    <li>Классическая 5-ступенчатая механическая коробка передач и усиленная цепь 520-го шага.</li>
+    <li>Гидравлическая дисковая тормозная система на обоих колесах для четкого контроля.</li>
+    <li>Наличие спидометра позволяет отслеживать пробег и скорость во время прохватов.</li>
+</ul>
+<br />
+Колесная база: 1410 мм. Объем бака: 5,5 л. Аккумулятор: 12V 5Ah.
+]]>
+					</description>
+<picture>https://static.tildacdn.com/stor3832-3333-4338-b439-313962623765/6da8ddfd85d1f3d09770eb9a2beedee6.png</picture>
+<picture>https://static.tildacdn.com/stor3232-3034-4665-b535-663636376264/473bd0cda71614d78e6bc80c72c8cdfb.png</picture>
+<picture>https://static.tildacdn.com/stor3136-3763-4362-b930-383639383166/35230add769808a0987c82c8d5f2a467.png</picture>
+<picture>https://static.tildacdn.com/stor3266-3839-4234-b036-353535376632/5f3512797ce458b2ecc8e4964296fd46.png</picture>
+<url>https://endurozone.ru/catalog/tproduct/547734768132-avantis-a2-hsq-cb300</url>
+				<price>167900.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>141</categoryId>
+			<set-ids>s2, s7, s9, s10, s12, s14, s16, s18, s23, s25</set-ids>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>false</pickup>
+			<store>false</store>
+				<param name="Конверсия">31</param>
+      <param name="Размещено дилером">true</param>
+      <param name="Пробег">0</param>
+      <param name="Топливо">Бензин</param>
+      <param name="Коробка передач">Механика</param>
+      <param name="Двигатель, литры">0.3</param>
+      <param name="Объем двигателя, см3">300</param>
+      <param name="Двигатель, л.с.">21</param>
+      <param name="Тип охлаждения">Воздушное</param>
+            <param name="Система запуска">Электростартер и Кикстартер</param>
+      <param name="Размер колес">21/18</param>
+      <param name="Гарантия">Есть</param>
+				</offer>
+			<offer id="503058990922" type="vendor.model" available="true">
+    <typePrefix>Эндуро мотоцикл</typePrefix>
+    <vendor>Avantis</vendor>
+    <model>A3 HSQ PR300</model>
+				<description>
+					<![CDATA[
+<strong>Avantis A3 HSQ PR300</strong> это эндуро, созданный для тех, кто ценит автономность и надежность в деталях. Модель получила увеличенный топливный бак и усиленные узлы ходовой части, сохранив при этом эталонную легкость и маневренность среднеразмерного байка.
+<br /><br />
+<strong>Двигатель и надежность:</strong>
+<ul>
+    <li>Проверенный 4-тактный двигатель PR300 объемом 300 см³ (21,76 л.с.).</li>
+    <li>Система питания: спортивный карбюратор <strong>Nibbi PE30</strong> </li>
+    <li>Воздушное охлаждение: минимум веса и максимум живучести в лесных условиях.</li>
+    <li>Комбинированный запуск: электростартер для быстрых стартов и кикстартер для подстраховки.</li>
+</ul>
+<br />
+<strong>Ходовая часть и усиление:</strong>
+<ul>
+    <li><strong>Алюминиевые ступицы и обода:</strong> повышенная прочность колес в сочетании с полноразмерной резиной 21/18.</li>
+    <li><strong>Малый вес:</strong> сухая масса 111 кг позволяет легко вытаскивать байк из любой ловушки и уверенно управлять им в узких секциях.</li>
+    <li>Высокая посадка (960 мм по седлу) и дорожный просвет 320 мм обеспечивают отличную геометрическую проходимость.</li>
+    <li>Задняя подвеска с регулировкой преднатяга пружины для точной настройки под райдера.</li>
+</ul>
+<br />
+<strong>Дальнобойность и оснащение:</strong>
+<ul>
+    <li><strong>Увеличенный бак на 9 литров:</strong> существенный запас хода для длительных прохватов без дозаправки.</li>
+    <li>Гидравлические дисковые тормоза на обеих осях обеспечивают четкое замедление.</li>
+    <li>Информативный спидометр и яркая передняя фара для безопасных поездок в сумерках.</li>
+</ul>
+<br />
+Колесная база: 1410 мм. Цепь: 520. КПП: 5-ступенчатая.
+]]>
+    </description>
+<picture>https://static.tildacdn.com/stor3130-3463-4263-b461-353765666435/a4f2f54ee32970a58c463ce3859b3a9c.png</picture>
+<picture>https://static.tildacdn.com/stor6666-3730-4437-a234-383237653766/40109a08649ed80c91f29004abcd67df.png</picture>
+<picture>https://static.tildacdn.com/stor3535-6536-4837-b261-666132303165/1bf09782aa927f7cc5957dd4fa53b93a.png</picture>
+<picture>https://static.tildacdn.com/stor3733-3231-4462-a633-663832383962/04054cce2f0dd625f3bded6285d31b7c.png</picture>
+<url>https://endurozone.ru/catalog/tproduct/503058990922-avantis-a3-hsq-pr300</url>
+				<price>178400.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>141</categoryId>
+			<set-ids>s2, s7, s9, s10, s12, s14, s16, s18, s22, s23, s25</set-ids>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>false</pickup>
+			<store>false</store>
+				<param name="Конверсия">33</param>
+      <param name="Размещено дилером">true</param>
+      <param name="Пробег">0</param>
+      <param name="Топливо">Бензин</param>
+      <param name="Коробка передач">Механика</param>
+      <param name="Двигатель, литры">0.3</param>
+      <param name="Объем двигателя, см3">300</param>
+      <param name="Двигатель, л.с.">21</param>
+      <param name="Тип охлаждения">Воздушное</param>
+            <param name="Система запуска">Электростартер и Кикстартер</param>
+      <param name="Размер колес">21/18</param>
+      <param name="Гарантия">Есть</param>
+				</offer>
+			<offer id="774566250612" type="vendor.model" available="true">
+    <typePrefix>Эндуро мотоцикл</typePrefix>
+    <vendor>Avantis</vendor>
+    <model>A2 K19 PR300 (ПТС)</model>
+				<description>
+<![CDATA[
+<strong>Avantis A2 K19 PR300</strong> это сбалансированный эндуро с ПТС, который позволяет законно передвигаться по дорогам общего пользования и уверенно штурмовать бездорожье. Простая и надежная конструкция в сочетании с полным комплектом светотехники делает его идеальным выбором для райдеров, ценящих универсальность.
+<br /><br />
+<strong>Двигатель и ходовые качества:</strong>
+<ul>
+    <li>Тяговитый 4-тактный двигатель PR300 объемом 300 см³ (22 л.с.) с воздушным охлаждением - минимум веса и максимум надежности.</li>
+    <li>Система питания: карбюратор <strong>Nibbi PE30</strong></li>
+    <li>Запуск: комбинированная система (электростартер + кикстартер) для гарантированного старта.</li>
+    <li>Трансмиссия: классическая 5-ступенчатая механика и усиленная цепь <strong>Choho 520 H</strong>.</li>
+</ul>
+<br />
+<strong>Внедорожный потенциал и надежность:</strong>
+<ul>
+    <li>Полноразмерные колеса 21/18 на алюминиевых ступицах и цепкой резине (80/100-21 и 120/90-18).</li>
+    <li><strong>Наличие буксаторов:</strong> позволяют использовать низкое давление в шинах для максимального зацепа без риска проворота покрышки.</li>
+    <li>Высокий дорожный просвет 340 мм и высота по седлу 920 мм обеспечивают отличную геометрическую проходимость.</li>
+    <li>Алюминиевые траверсы и регулируемый задний амортизатор для базовой настройки под вес райдера.</li>
+</ul>
+<br />
+<strong>Комплектация ПТС и безопасность:</strong>
+<ul>
+    <li><strong>Полное дорожное оснащение:</strong> яркая LED-фара, поворотники, стоп-сигнал, зеркала заднего вида и звуковой сигнал.</li>
+    <li>Гидравлические дисковые тормоза на обеих осях обеспечивают предсказуемое замедление на асфальте и грунте.</li>
+</ul>
+<br />
+Сухая масса: 118 кг. Объем бака: 5,5 л. Колесная база: 1390 мм.
+]]>
+    </description>
+<picture>https://static.tildacdn.com/stor6530-6333-4939-b433-393334393332/87564bf9e1ae33be0ed1962a02de2fe5.png</picture>
+<picture>https://static.tildacdn.com/stor6631-3731-4533-b533-643538656264/b6e40502a6160b965216f9451035fbd1.png</picture>
+<picture>https://static.tildacdn.com/stor3931-3565-4133-b034-663633323733/f2966b32161cd0023147b76f84f49e9f.png</picture>
+<picture>https://static.tildacdn.com/stor3366-3361-4462-b362-376135343133/b34b9414d0ff83f15798a7cbe4997af9.png</picture>
+<url>https://endurozone.ru/catalog/tproduct/774566250612-avantis-a2-k19-pr300-pts-</url>
+				<price>178400.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>141</categoryId>
+			<set-ids>s2, s7, s9, s10, s12, s14, s16, s18, s22, s23, s25</set-ids>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<delivery>true</delivery>
+			<pickup>false</pickup>
+			<store>false</store>
+				<param name="Конверсия">34</param>
+      <param name="Размещено дилером">true</param>
+      <param name="Пробег">0</param>
+      <param name="Топливо">Бензин</param>
+      <param name="Коробка передач">Механика</param>
+      <param name="Двигатель, литры">0.3</param>
+      <param name="Объем двигателя, см3">300</param>
+      <param name="Двигатель, л.с.">22</param>
+      <param name="Тип охлаждения">Воздушное</param>
+            <param name="Система запуска">Электростартер и Кикстартер</param>
       <param name="Размер колес">21/18</param>
       <param name="Гарантия">Есть</param>
 				</offer>
